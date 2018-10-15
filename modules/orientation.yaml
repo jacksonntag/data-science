@@ -1,0 +1,9 @@
+name: Orientation
+code: TFE-001
+checkpoints:
+  - orientation_intro
+  - what_to_expect
+  - working_with_your_mentor
+  - getting_help_between_sessions
+  - weekly_reflections
+  - make_a_commitment
