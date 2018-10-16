@@ -1,0 +1,6 @@
+Cookie: WMF-Last-Access=11-May-2017; WMF-Last-Access-Global=11-May-2017; GeoIP=DE:NW:Dortmund:51.52:7.47:v4
+User-Agent: ThinkfulDataScienceBootcampCrawler (thinkful.com)
+Accept-Language: en
+Accept-Encoding: gzip,deflate
+Referer: https://en.wikipedia.org/w/api.php?action=query&format=xml&prop=linkshere&titles=Monty_Python&lhprop=title%7Credirect&lhcontinue=316885
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8

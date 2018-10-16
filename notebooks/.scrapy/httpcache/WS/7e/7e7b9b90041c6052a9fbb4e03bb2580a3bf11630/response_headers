@@ -1,0 +1,20 @@
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Accept-Ranges: bytes
+Backend-Timing: D=25267 t=1494508456710513
+Cache-Control: private, must-revalidate, max-age=0
+Vary: Accept-Encoding,Treat-as-Untrusted,X-Forwarded-Proto,Cookie,Authorization
+X-Content-Type-Options: nosniff
+Server: mw1276.eqiad.wmnet
+X-Analytics: ns=-1;special=Badtitle;WMF-Last-Access=11-May-2017;WMF-Last-Access-Global=11-May-2017;https=1
+Age: 0
+Via: 1.1 varnish-v4, 1.1 varnish-v4, 1.1 varnish-v4
+Content-Encoding: gzip
+Date: Thu, 11 May 2017 13:14:16 GMT
+X-Cache-Status: pass
+X-Powered-By: HHVM/3.12.14
+P3P: CP="This is not a P3P policy! See https://en.wikipedia.org/wiki/Special:CentralAutoLogin/P3P for more info."
+Content-Type: text/xml; charset=utf-8
+X-Frame-Options: SAMEORIGIN
+X-Varnish: 111557038, 963440271, 418145151
+X-Cache: cp1053 pass, cp3031 pass, cp3031 pass
+X-Client-Ip: 2.247.255.141

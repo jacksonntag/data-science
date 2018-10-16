@@ -1,0 +1,16 @@
+Cache-Control: s-maxage=2678400, max-age=2678400
+X-Varnish: 733635027, 479698273, 417073706
+Content-Encoding: gzip
+X-Analytics: WMF-Last-Access=11-May-2017;WMF-Last-Access-Global=11-May-2017;https=1
+Content-Type: text/html; charset=utf-8
+Server: mw1270.eqiad.wmnet
+X-Cache-Status: miss
+X-Powered-By: HHVM/3.12.14
+Vary: Accept-Encoding
+Age: 0
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Via: 1.1 varnish-v4, 1.1 varnish-v4, 1.1 varnish-v4
+Date: Thu, 11 May 2017 12:56:58 GMT
+X-Client-Ip: 2.247.255.141
+X-Cache: cp1055 miss, cp3033 miss, cp3031 miss
+Backend-Timing: D=1300 t=1494507418268364

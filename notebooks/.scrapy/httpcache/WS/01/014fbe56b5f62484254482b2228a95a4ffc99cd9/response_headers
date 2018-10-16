@@ -1,0 +1,23 @@
+X-Frame-Options: SAMEORIGIN
+X-Cache: cp1067 pass, cp3033 pass, cp3031 pass
+Content-Type: text/xml; charset=utf-8
+P3P: CP="This is not a P3P policy! See https://en.wikipedia.org/wiki/Special:CentralAutoLogin/P3P for more info."
+Via: 1.1 varnish-v4, 1.1 varnish-v4, 1.1 varnish-v4
+Set-Cookie: WMF-Last-Access=11-May-2017;Path=/;HttpOnly;secure;Expires=Mon, 12 Jun 2017 12:00:00 GMT
+Set-Cookie: WMF-Last-Access-Global=11-May-2017;Path=/;Domain=.wikipedia.org;HttpOnly;secure;Expires=Mon, 12 Jun 2017 12:00:00 GMT
+Set-Cookie: GeoIP=DE:NW:Dortmund:51.52:7.47:v4; Path=/; secure; Domain=.wikipedia.org
+X-Client-Ip: 2.247.255.141
+Cache-Control: private, must-revalidate, max-age=0
+Content-Encoding: gzip
+X-Cache-Status: pass
+X-Analytics: ns=-1;special=Badtitle;https=1;nocookies=1
+Age: 0
+X-Content-Type-Options: nosniff
+Date: Thu, 11 May 2017 13:00:47 GMT
+Accept-Ranges: bytes
+X-Powered-By: HHVM/3.12.14
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-Varnish: 938502077, 483953575, 409235557
+Backend-Timing: D=36180 t=1494507647248720
+Vary: Accept-Encoding,Treat-as-Untrusted,X-Forwarded-Proto,Cookie,Authorization
+Server: mw1198.eqiad.wmnet

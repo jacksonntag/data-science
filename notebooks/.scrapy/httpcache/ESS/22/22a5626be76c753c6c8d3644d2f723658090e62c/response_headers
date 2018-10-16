@@ -1,0 +1,11 @@
+Server: Sucuri/Cloudproxy
+X-Frame-Options: SAMEORIGIN
+Date: Thu, 11 May 2017 13:33:28 GMT
+X-Sucuri-Id: 13010
+Vary: Accept-Encoding
+Content-Encoding: gzip
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Type: text/html; charset=UTF-8
+Link: <http://everydaysexism.com/wp-json/>; rel="https://api.w.org/"
+X-Sucuri-Cache: HIT

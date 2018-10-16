@@ -1,0 +1,17 @@
+name: Programming fundamentals in Python
+code: 
+checkpoints:
+  - programming_in_python_intro
+  - what_is_programming
+  - what_is_python
+  - working_with_variables
+  - data_types
+  - collections_of_data
+  - function_basics
+  - working_with_strings
+  - working_with_numbers
+  - logic_control_flow_conditionals
+  - lists_loops_iteration
+  - working_with_dictionaries
+  - objects_classes_and_modules
+  - set_up_local_dev_environment

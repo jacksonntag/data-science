@@ -1,0 +1,26 @@
+Backend-Timing: D=22184 t=1493928150902557
+P3P: CP="This is not a P3P policy! See https://en.wikipedia.org/wiki/Special:CentralAutoLogin/P3P for more info."
+X-Language: en
+X-Content-Type-Options: nosniff
+X-Cache-Status: hit
+X-Analytics: https=1;nocookies=1
+Vary: X-Subdomain
+Via: 1.1 varnish-v4, 1.1 varnish-v4, 1.1 varnish-v4
+Date: Thu, 11 May 2017 12:52:34 GMT
+Set-Cookie: WMF-Last-Access=11-May-2017;Path=/;HttpOnly;secure;Expires=Mon, 12 Jun 2017 12:00:00 GMT
+Set-Cookie: WMF-Last-Access-Global=11-May-2017;Path=/;Domain=.wikipedia.org;HttpOnly;secure;Expires=Mon, 12 Jun 2017 12:00:00 GMT
+Set-Cookie: GeoIP=DE:NW:Dortmund:51.52:7.47:v4; Path=/; secure; Domain=.wikipedia.org
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-Cache: cp1065 hit/1, cp3031 hit/5, cp3031 hit/28
+Last-Modified: Thu, 12 Jan 2017 01:49:26 GMT
+Content-Type: text/plain; charset=utf-8
+Server: mw1263.eqiad.wmnet
+Age: 2674
+X-Article-Id: 19292575
+X-Site: wikipedia
+X-Powered-By: HHVM/3.12.14
+X-Client-Ip: 2.247.255.141
+Accept-Ranges: bytes
+Cache-Control: s-maxage=3600, must-revalidate, max-age=0
+X-Varnish: 941396710 924021944, 936670097 952187119, 410808024 368731770
+Content-Encoding: gzip
