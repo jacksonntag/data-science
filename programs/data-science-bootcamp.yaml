@@ -2,4 +2,4 @@ name: Data science bootcamp
 modules:
   - introduction
   - careers_networking
-
+  - programming_fundamentals_in_python
