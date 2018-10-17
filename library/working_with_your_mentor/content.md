@@ -1,6 +1,7 @@
 ---
 time: 5
 name: Working with your mentor
+uuid: f1bf44dc-02fa-43c0-a2e4-b43576b4bfc3
 ---
 
 Your mentor is your greatest ally in this course. They’re there to help you learn data science concepts, teach you strategies for getting unstuck, give you feedback on your work, and provide you with first-hand knowledge of what it’s like to work as a data scientist. Here are some tips to help you get the most out of your mentoring relationship.

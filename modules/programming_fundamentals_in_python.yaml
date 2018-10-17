@@ -1,5 +1,5 @@
 name: Programming fundamentals in Python
-code: 
+code: null
 checkpoints:
   - programming_in_python_intro
   - what_is_programming
@@ -15,3 +15,4 @@ checkpoints:
   - working_with_dictionaries
   - objects_classes_and_modules
   - set_up_local_dev_environment
+uuid: 7c434a66-f6b7-4667-b4b9-a096dbe5f115

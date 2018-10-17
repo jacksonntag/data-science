@@ -2,8 +2,8 @@
 time: 30
 name: Collections of data
 type: written content
+uuid: a41edb09-9a40-48e9-9ac0-ad25bee3f0cd
 ---
-
 
 So far all of the things we've stored in a variable have been one single value, whether that value is a string like a name or an integer like a score or so on. Sometimes you'll want to collect several such things together into a single variable. Python gives you several great built-in data structures for doing that. In this assignment we'll cover the two most used: lists and dictionaries.
 

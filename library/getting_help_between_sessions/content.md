@@ -2,7 +2,7 @@
 time: 5
 type: written content
 name: Getting help between sessions
-
+uuid: 74829c7f-d5f4-4b7e-9692-cac074495c4d
 ---
 
 Your mentor is an amazing resource, but certainly not the only one available. There are several ways for you to connect with the broader Thinkful community of mentors and students.

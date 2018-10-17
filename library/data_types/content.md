@@ -1,8 +1,8 @@
 ---
 time: 90
 name: Data types
+uuid: d410472b-765f-4b55-8dbc-d3e0e21c5850
 ---
-
 
 Variables can represent different *types* of values. For example, words and numbers are different types of data. A variable could refer to the number `42` or it could refer to the words `"forty two"`. You can do math with the first one, but trying to subtract `5` from `"forty two"` in Python isn't going to fly.
 

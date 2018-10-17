@@ -1,11 +1,17 @@
 {
-  "name": "@thinkful-ed/engineering",
+  "name": "@thinkful-ed/data-science",
   "version": "1.0.0",
   "description": "Content for Thinkful engineers",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "zapdos build:programs",
+    "publish": "zapdos publish:modules",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "uuids": "zapdos uuids"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@thinkful/zapdos": "0.0.6"
+  }
 }

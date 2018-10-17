@@ -1,8 +1,8 @@
 ---
 time: 240
 name: Working with strings
+uuid: 32509423-b6b8-4009-8336-06f1fc9ab9a5
 ---
-
 
 As a programmer you'll frequently work with strings. Here are some common scenarios where you need to understand strings:
 

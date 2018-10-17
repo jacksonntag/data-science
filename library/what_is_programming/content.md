@@ -2,6 +2,7 @@
 time: 30
 name: What is programming
 type: written content
+uuid: 0854019d-cdb5-4e96-accd-2a478547350f
 ---
 
 A *program*, in simplest terms, is a set of instructions for a computer to carry out. In the context of data science, you might write a program to collect data from the web, or to systematically reformat or clean your data once you've collected it, or to process your cleaned data and display an interesting visualization of your user networks. There's literally an infinite number of programs you could write.
