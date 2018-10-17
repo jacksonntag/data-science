@@ -1,5 +1,6 @@
+uuid: 2bca8eac-23cb-43a5-b682-6d40744fd768
 name: Orientation
-code: TFE-001
+code: DSBC-ORIENTATION
 checkpoints:
   - orientation_intro
   - what_to_expect
@@ -7,4 +8,3 @@ checkpoints:
   - getting_help_between_sessions
   - weekly_reflections
   - make_a_commitment
-uuid: 2bca8eac-23cb-43a5-b682-6d40744fd768
