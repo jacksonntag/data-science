@@ -1,6 +1,7 @@
 ---
 time: 5
 name: What to expect
+uuid: 612d0542-ce59-4012-8644-0c081ba51a6f
 ---
 
 In the coming months, you’re going to cover a lot of ground as you gain the skills to land your first job as a data scientist. It’s going to be as challenging as it is exciting. Here’s what to expect.

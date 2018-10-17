@@ -1,6 +1,7 @@
 ---
 time: 30
 name: What is Python
+uuid: db80b113-0127-415e-8522-cb1fe587c0cf
 ---
 
 Python is one of many programming languages. It's popular in part because of its clear, English-like syntax and because of the enormous ecosystem of open source Python tools for almost any aspect of scientific computing. Simply stated, [Python is currently eating other languages' lunch](http://www.talyarkoni.org/blog/2013/11/18/the-homogenization-of-scientific-computing-or-why-python-is-steadily-eating-other-languages-lunch/).

@@ -2,8 +2,8 @@
 time: 60
 name: Function basics
 type: written content
+uuid: 1176819f-18b2-4416-979f-5eaa51604897
 ---
-
 
 Functions are one of the most important concepts in programming. A function describes a repeatable process or behavior. You define that behavior once, and you can run and re-run your set of instructions whenever and as many times as you need.
 

@@ -1,8 +1,8 @@
 ---
 time: 180
 name: Working with dictionaries
+uuid: ff860319-7701-4394-aa70-0d574c5521e8
 ---
-
 
 Dictionaries are a common and useful data structure that allow you to store data as an unordered collection of **key**: **value** pairs.
 

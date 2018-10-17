@@ -2,7 +2,7 @@
 time: 5
 type: written content
 name: Weekly reflections
-
+uuid: 4519ea76-af3d-4dc3-8b1e-f211fc4863c7
 ---
 
 Having worked with hundreds of students in this program, we know one thing: the greatest challenge we face as learners is holding ourselves accountable. The best way to make consistent progress is to reflect frequently on your work.

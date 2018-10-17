@@ -1,8 +1,8 @@
 ---
 time: 240
-name: Logic, control flow, and conditionals
+name: 'Logic, control flow, and conditionals'
+uuid: 2507432c-741e-47cc-acba-22eb1aac7dc6
 ---
-
 
 In this checkpoint, you'll about three related topics: logic, control flow, and conditionals in Python. Together, these tools will allow you to write programs that can behave differently depending on their inputs.
 
