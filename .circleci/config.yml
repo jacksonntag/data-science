@@ -3,7 +3,7 @@ defaults: &defaults
   docker:
     - image: circleci/node:8.12.0
 jobs:
-  install:
+  build:
     <<: *defaults
     steps:
       - checkout
@@ -22,15 +22,28 @@ jobs:
           key: dependency-cache-{{ checksum "package.json" }}
           paths:
             - ./node_modules
-  build:
-    <<: *defaults
-    steps:
       - run:
           name: Build
           command: npm run build
   publish:
     <<: *defaults
     steps:
+      - checkout
+      - run:
+          name: auth-npm
+          command: echo "//registry.npmjs.org/:_authToken=$NPM_TOKEN" >> ~/.npmrc
+      - run:
+          name: update-npm
+          command: 'sudo npm install -g npm@latest'
+      - restore_cache:
+          key: dependency-cache-{{ checksum "package.json" }}
+      - run:
+          name: Install dependencies
+          command: npm install
+      - save_cache:
+          key: dependency-cache-{{ checksum "package.json" }}
+          paths:
+            - ./node_modules
       - run:
           name: Publish
           command: npm run publish
@@ -38,18 +51,12 @@ workflows:
   version: 2
   build_and_publish:
     jobs:
-      - install:
-          context: default
       - build:
           context: default
-          requires:
-            - install
       - publish:
           context: default
-          requires:
-            - install
-            - build
           filters:
             branches:
               only:
                 - master
+                - preview
