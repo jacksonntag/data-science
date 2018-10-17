@@ -2,10 +2,8 @@ name: Basic stats and probability with Python
 code: DSBC-STATS-1
 checkpoints:
   - dsbc_stats_intro
-  - data_frames_in_pandas
-  - selecting_and_grouping_in_pandas
-  - working_with_files_in_pandas
-  - plotting_basics_line_and_scatter_plots
+  - pandas_basics
+  - line_and_scatter_plots
   - statistical_plots
   - descriptive_statistics
   - basics_of_probability
