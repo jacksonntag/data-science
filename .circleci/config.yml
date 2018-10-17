@@ -55,6 +55,8 @@ workflows:
           context: default
       - publish:
           context: default
+          requires:
+            - build
           filters:
             branches:
               only:
