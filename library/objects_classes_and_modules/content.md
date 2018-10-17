@@ -1,8 +1,8 @@
 ---
 time: 120
-name: Objects, classes, and modules
+name: 'Objects, classes, and modules'
+uuid: cf51d657-2137-42a4-99e6-dab1a2b41ac9
 ---
-
 
 It's time to talk about something you've been using every time you write Python, but that you may not have been thinking about: objects.
 

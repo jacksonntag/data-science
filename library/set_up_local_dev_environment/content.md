@@ -1,8 +1,8 @@
 ---
 time: 180
 name: Set up your local dev environment
+uuid: 7d065a68-a44c-4f25-8c4b-9372fe46faa9
 ---
-
 
 So far you've been working with remote Python environments like Trinket, Codewars, and perhaps web-hosted Jupyter notebooks, where the Python code you write is sent to another machine, executed remotely, and the results are sent back to your web browser.
 

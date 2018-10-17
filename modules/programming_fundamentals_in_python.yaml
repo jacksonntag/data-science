@@ -1,5 +1,6 @@
+uuid: 7c434a66-f6b7-4667-b4b9-a096dbe5f115
 name: Programming fundamentals in Python
-code: 
+code: DSBC-FUNDAMENTALS
 checkpoints:
   - programming_in_python_intro
   - what_is_programming

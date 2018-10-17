@@ -1,8 +1,8 @@
 ---
 time: 240
 name: Working with numbers
+uuid: 0f63d2f8-f487-4021-a130-11a80c835073
 ---
-
 
 As a data scientist, you'll frequently be working with numerical data. In this checkpoint, we'll cover the essentials of working with numbers in Python. This checkpoint ends with a set of drills that you'll work through to practice working with numbers.
 

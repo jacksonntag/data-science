@@ -1,8 +1,8 @@
 ---
 time: 5
 name: Intro
+uuid: b2677961-9f52-4d29-9041-0e59495ab143
 ---
-
 
 Programming, or solving problems with code, is a key prerequisite skill for data scientists. In this module, you'll learn the fundamentals of programming in Python and take your first steps in using Python to solve problems with data.
 
