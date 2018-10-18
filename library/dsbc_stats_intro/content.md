@@ -1,6 +1,7 @@
 ---
 time: 5
 name: Intro
+uuid: ddbf7e3e-c6c4-4584-bbbb-a9aaf0852098
 ---
 
 In this module, we'll get to know the Python data science toolkit — consisting of Python + Jupyter Notebooks + Pandas + SciPy + Numpy + Matplotlib — as we explore how to do basic statistical analysis in the initial exploratory phase of a project.

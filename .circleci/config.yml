@@ -23,12 +23,18 @@ jobs:
           paths:
             - ./node_modules
       - run:
+          name: Generate uuids
+          command: npm run uuids
+      - run:
           name: Build
           command: npm run build
   publish:
     <<: *defaults
     steps:
       - checkout
+      - add_ssh_keys:
+          fingerprints:
+            - 'b9:87:d9:45:8f:fc:7d:af:b2:f9:e0:7a:98:b1:54:b6'
       - run:
           name: auth-npm
           command: echo "//registry.npmjs.org/:_authToken=$NPM_TOKEN" >> ~/.npmrc
@@ -44,6 +50,18 @@ jobs:
           key: dependency-cache-{{ checksum "package.json" }}
           paths:
             - ./node_modules
+      - run:
+          name: Generate uuids
+          command: npm run uuids
+      - run:
+          name: Commit uuids
+          command: |
+            git add .
+            git config --global user.name "CircleCI"
+            git config --global user.email "circleci@thinkful.com"
+            # don't fail if there's nothing to commit
+            git diff-index --quiet HEAD || git commit -m "Automatic commit of uuids after pushing to master [CI skip]"
+            git push origin $CIRCLE_BRANCH --force
       - run:
           name: Publish
           command: npm run publish
