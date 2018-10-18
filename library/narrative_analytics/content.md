@@ -1,6 +1,7 @@
 ---
 time: 5
 name: Intro
+uuid: 48d67e40-caed-455b-bb1d-f89064640077
 ---
 
 At Thinkful, we’ve helped thousands of people gain new skills to advance their careers and so we’ve learned a thing or two about how students can best use their time to succeed. Before getting to the business of data science or even meeting your mentor, we ask that you carefully read through this orientation module to learn the best strategies for structuring your learning experience.
