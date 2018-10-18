@@ -23,6 +23,9 @@ jobs:
           paths:
             - ./node_modules
       - run:
+          name: Generate uuids
+          command: npm run uuids
+      - run:
           name: Build
           command: npm run build
   publish:
@@ -44,6 +47,18 @@ jobs:
           key: dependency-cache-{{ checksum "package.json" }}
           paths:
             - ./node_modules
+      - run:
+          name: Generate uuids
+          command: npm run uuids
+      - run:
+          name: Commit uuids
+          command: |
+            git add .
+            git config --global user.name "CircleCI"
+            git config --global user.email "circleci@thinkful.com"
+            # don't fail if there's nothing to commit
+            git diff-index --quiet HEAD || git commit -m "Automatic commit of uuids after pushing to master [CI skip]"
+            git push origin master --force
       - run:
           name: Publish
           command: npm run publish
