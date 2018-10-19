@@ -5,13 +5,13 @@
   "main": "index.js",
   "scripts": {
     "build": "zapdos build:programs",
-    "publish": "zapdos publish:modules",
+    "publish": "zapdos publish:programs",
     "test": "echo \"Error: no test specified\" && exit 1",
     "uuids": "zapdos uuids"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@thinkful/zapdos": "^0.0.8"
+    "@thinkful/zapdos": "^0.0.11"
   }
 }
