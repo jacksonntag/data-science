@@ -1,6 +1,9 @@
 ---
+title: Working with numbers
+author: Thinkful
+team: grading
+type: graded
 time: 240
-name: Working with numbers
 uuid: 0f63d2f8-f487-4021-a130-11a80c835073
 ---
 

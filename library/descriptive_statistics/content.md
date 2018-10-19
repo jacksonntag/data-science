@@ -1,6 +1,9 @@
 ---
+title: Summary statistics
+author: Thinkful
+team: grading
+type: graded
 time: 5
-name: Summary statistics
 uuid: 53f88fcd-7361-477f-b21f-b23cd186e251
 ---
 

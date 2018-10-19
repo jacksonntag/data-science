@@ -1,6 +1,9 @@
 ---
+title: Working with dictionaries
+author: Thinkful
+team: grading
+type: graded
 time: 180
-name: Working with dictionaries
 uuid: ff860319-7701-4394-aa70-0d574c5521e8
 ---
 

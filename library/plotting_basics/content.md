@@ -1,6 +1,9 @@
 ---
+title: Plotting basics
+author: Thinkful
+team: grading
+type: graded
 time: 300
-name: Plotting basics
 uuid: 52f8c1d4-c6d1-4091-85e2-0937375f0d42
 ---
 

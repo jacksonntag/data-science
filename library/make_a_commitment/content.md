@@ -1,7 +1,9 @@
 ---
-time: 5
-name: Make a commitment
+title: Make a commitment
 author: Benjamin White
+team: grading
+type: graded
+time: 5
 uuid: b69a22dc-e34b-42a5-aead-6a237c737d7d
 ---
 

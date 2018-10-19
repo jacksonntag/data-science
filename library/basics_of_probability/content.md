@@ -1,6 +1,9 @@
 ---
+title: Basics of probability
+author: Thinkful
+team: grading
+type: graded
 time: 240
-name: Basics of probability
 uuid: 78ce2724-6c33-4161-b028-aec860d09cb0
 ---
 

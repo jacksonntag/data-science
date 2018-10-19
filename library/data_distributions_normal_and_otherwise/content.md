@@ -1,6 +1,9 @@
 ---
+title: Analyzing data distributions
+author: Thinkful
+team: grading
+type: graded
 time: 240
-name: Analyzing data distributions
 uuid: c143af15-7d54-482a-9710-a4107c8c1188
 ---
 
