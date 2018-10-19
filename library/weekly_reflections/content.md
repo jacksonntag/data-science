@@ -1,6 +1,5 @@
 ---
 time: 5
-type: written content
 name: Weekly reflections
 uuid: 4519ea76-af3d-4dc3-8b1e-f211fc4863c7
 ---

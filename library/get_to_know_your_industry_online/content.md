@@ -1,8 +1,6 @@
 ---
 time: 180
 name: Get to know your industry
-type: project
-author: Stephanie Bermudez
 uuid: 6063b2e6-53fa-4593-985c-e13a2e4838f1
 ---
 

@@ -1,7 +1,6 @@
 ---
 time: 60
 name: Function basics
-type: written content
 uuid: 1176819f-18b2-4416-979f-5eaa51604897
 ---
 

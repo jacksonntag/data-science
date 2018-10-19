@@ -1,7 +1,6 @@
 ---
 time: 30
 name: Collections of data
-type: written content
 uuid: a41edb09-9a40-48e9-9ac0-ad25bee3f0cd
 ---
 

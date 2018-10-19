@@ -1,7 +1,6 @@
 ---
 time: 30
 name: What is programming
-type: written content
 uuid: 0854019d-cdb5-4e96-accd-2a478547350f
 ---
 

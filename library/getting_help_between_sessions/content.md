@@ -1,6 +1,5 @@
 ---
 time: 5
-type: written content
 name: Getting help between sessions
 uuid: 74829c7f-d5f4-4b7e-9692-cac074495c4d
 ---

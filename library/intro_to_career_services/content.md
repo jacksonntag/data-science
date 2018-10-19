@@ -1,8 +1,6 @@
 ---
 time: 5 mins
-type: written content
 name: Introducing career services
-author: Stephanie Bermudez
 uuid: 0633089c-8b66-41ef-aebe-e1b02d4303d8
 ---
 
