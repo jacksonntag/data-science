@@ -1,10 +1,10 @@
 ---
-title: Storytelling with data
+title: Narrative analytics
 author: Thinkful
 team: grading
 type: graded
-time: 5
+time: 240
 uuid: 48d67e40-caed-455b-bb1d-f89064640077
 ---
 
-Coming soon.
+<jupyter height="1000" notebook-name="narrative_analytics" course-code="DSBC" >
