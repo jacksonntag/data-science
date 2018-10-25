@@ -1,6 +1,9 @@
 ---
+title: Set up your local dev environment
+author: Thinkful
+team: grading
+type: graded
 time: 120
-name: Set up your local dev environment
 uuid: 7d065a68-a44c-4f25-8c4b-9372fe46faa9
 ---
 

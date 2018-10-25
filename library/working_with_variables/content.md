@@ -1,6 +1,9 @@
 ---
+title: Working with variables
+author: Thinkful
+team: grading
+type: graded
 time: 60
-name: Working with variables
 uuid: 3323613f-6bdd-44c3-8a7c-02cf336b24ab
 ---
 

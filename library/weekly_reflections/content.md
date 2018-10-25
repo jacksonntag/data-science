@@ -1,6 +1,9 @@
 ---
+title: Weekly reflections
+author: Thinkful
+team: grading
+type: graded
 time: 5
-name: Weekly reflections
 uuid: 4519ea76-af3d-4dc3-8b1e-f211fc4863c7
 ---
 

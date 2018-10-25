@@ -1,6 +1,9 @@
 ---
+title: What to expect
+author: Thinkful
+team: grading
+type: graded
 time: 5
-name: What to expect
 uuid: 612d0542-ce59-4012-8644-0c081ba51a6f
 ---
 

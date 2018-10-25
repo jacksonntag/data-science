@@ -1,6 +1,9 @@
 ---
+title: 'Lists, loops, and iteration'
+author: Thinkful
+team: grading
+type: graded
 time: 180
-name: 'Lists, loops, and iteration'
 uuid: 37e38e42-690f-4936-a0c8-73de523aed81
 ---
 
