@@ -1,6 +1,6 @@
 ---
 time: 240
-name: Analyzing data distributions
+name: Data distributions normal and otherwise
 uuid: c143af15-7d54-482a-9710-a4107c8c1188
 ---
 
