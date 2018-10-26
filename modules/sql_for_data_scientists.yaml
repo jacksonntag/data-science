@@ -2,6 +2,7 @@ name: SQL for Data Scientists
 code: DSBC-SQL-1
 checkpoints:
   - sql_for_data_scientists_intro
+  - working_with_relational_databases
   - setting_up_postgres
   - sql_basics
   - aggregating_and_grouping
