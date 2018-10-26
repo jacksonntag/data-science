@@ -1,8 +1,10 @@
 ---
-time: 120
-name: Analyzing Job Postings
+title: Analyzing Job Postings
 author: Stephanie Bermudez
-
+team: grading
+type: graded
+time: 120
+uuid: 6c5abff0-d735-4028-b16d-cd5a17986b70
 ---
 
 ## Overview and Purpose
