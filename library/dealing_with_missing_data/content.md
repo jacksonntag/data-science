@@ -1,8 +1,11 @@
 ---
 title: Dealing with missing data
+author: Thinkful
+team: grading
+type: graded
 time: 60
+uuid: c99f998a-758f-458c-8026-aef90c34103e
 ---
-
 
 In checkpoint lesson we'll  introduce you to the different concepts of missingness, and give a brief introduction to how to impute (replace) missing data.
 

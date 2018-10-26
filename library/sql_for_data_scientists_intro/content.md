@@ -1,6 +1,10 @@
 ---
 title: Intro
+author: Thinkful
+team: grading
+type: graded
 time: 5
+uuid: 6b6a996f-2626-4b1b-ab03-1b9baad44800
 ---
 
 Not all data comes in a ready-to-use form, like a CSV file. Most of the time, data is stored in a database that contains a set of tables with far more information than is actually needed for a single analysis. 

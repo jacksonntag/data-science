@@ -1,6 +1,10 @@
 ---
 title: Intro
+author: Thinkful
+team: grading
+type: graded
 time: 5
+uuid: 8de6b903-5446-444d-9264-2e3f2fa5aaab
 ---
 
 Creating clear, clean, easy-to-understand visuals is a critical skill.  It plays in all stages of a data scientist's process. In the early stages, visualizations help us get acquainted with a new dataset and identify potential problems.  In the middle stages, visualizations check model results against the data.  And in the final stages, visualizations are key to an effective presentation to stakeholders.

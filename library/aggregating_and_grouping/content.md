@@ -1,7 +1,10 @@
 ---
-time: 90 minutes
-name: Aggregating and grouping
+title: Aggregating and grouping
 author: Alex Nussbacher and Tauhida Parveen
+team: grading
+type: graded
+time: 90 minutes
+uuid: 1796c9a4-47a1-4839-9fb6-3a06b479a6d7
 ---
 
 The simple but powerful queries you've learned about so far can be made even more powerful with *grouping* and *aggregating*. In SQL, grouping is about grouping database records according to some criteria. Aggregating is about applying one of many possible aggregating operations on a query — things like getting the max value in a column, or averaging out values in a certain range.
