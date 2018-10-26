@@ -1,6 +1,10 @@
 ---
 title: Null hypothesis significance testing
+author: Thinkful
+team: grading
+type: graded
 time: 30
+uuid: 1d121b0d-a9fc-4085-9fbc-894de64d52a3
 ---
 
 ## P-value Limbo: How Low Can You Go?

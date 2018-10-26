@@ -1,6 +1,10 @@
 ---
 title: Bias and A/A testing
+author: Thinkful
+team: grading
+type: graded
 time: 120
+uuid: 45bab026-6ab4-4684-8185-1fd61bb64c27
 ---
 
 In experiments, **bias** refers to anything that causes a sample to systematically differ from the population.  Bias can come from a) the sampling procedure, b) the assignment to conditions procedure, c) the context of the study, or d) the people running the study.
