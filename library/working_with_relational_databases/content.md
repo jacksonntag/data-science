@@ -1,6 +1,10 @@
 ---
 title: Working with relational databases
+author: Thinkful
+team: grading
+type: graded
 time: 45
+uuid: 0fd0aafe-9c0b-4e3f-a871-455b73ac7e6a
 ---
 
 Data is everywhere. It's something you've undoubtedly heard time and time again. But it isn't just floating out in the ether without an order or structure. Instead, it gets stored in specific formats and file types. Data can be stored in spreadsheets in CSV or Excel files. For companies that generate a lot of data though, databases (and especially *relational* databases) are the standard way to store data. In this checkpoint, we'll introduce the basics of databases, covering why they exist, how they work, and how to get data out of them.

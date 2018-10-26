@@ -1,8 +1,10 @@
 ---
-time: 120 
-name: Joins and CTEs
+title: Joins and CTEs
 author: Alex Nussbacher
-
+team: grading
+type: graded
+time: 120
+uuid: ab2939f9-2097-4b84-b566-0a785353b8f5
 ---
 
 So far we've worked with one table at a time in our database, but we aren't limited to that. SQL lets you easily combine multiple tables using a `JOIN` clause, or "joins".

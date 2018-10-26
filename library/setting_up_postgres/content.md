@@ -1,8 +1,10 @@
 ---
-time: 45 
-name: Setting up Postgres
+title: Setting up Postgres
 author: Tauhida Parveen
-
+team: grading
+type: graded
+time: 45
+uuid: 51e4ef0c-6a44-4586-9893-0e4cdf43fa05
 ---
 
 In this checkpoint, you will learn how to locally install and configure Postgres. We provide instructions for Mac and Windows. 
