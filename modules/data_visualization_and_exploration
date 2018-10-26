@@ -1,0 +1,9 @@
+name: Data visualization and exploration
+code: DSBC-DATA-VIS-1
+checkpoints:
+  - data_visualization_and_exploration_intro
+  - using_plots_for_data_exploration
+  - what_is_data_cleaning
+  - text_manipulation_with_python
+  - dealing_with_missing_data
+  - challenge_data_cleaning_and_validation

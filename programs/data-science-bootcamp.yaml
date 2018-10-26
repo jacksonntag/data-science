@@ -6,3 +6,4 @@ modules:
   - programming_fundamentals_in_python
   - basic_stats_and_probability_with_python
   - sql_for_data_scientists
+  - data_visualization_and_exploration
