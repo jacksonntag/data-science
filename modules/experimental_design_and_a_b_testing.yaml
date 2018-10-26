@@ -1,0 +1,13 @@
+name: Experiemental design and A/B testing
+code: DSBC-EXP-DES-AB-TEST
+checkpoints:
+  - experimental_design_and_a_b_testing_intro
+  - a_b_tests
+  - simpsons_paradox
+  - bias_and_a_a_testing
+  - challenge_evaluate_an_experiment_analysis
+  - the_research_proposal
+  - a_b_testing_and_t_tests
+  - null_hypothesis_significance_testing
+  - experimentation_guided_example
+  - capstone_narrative_analytics_and_experimentation
