@@ -8,4 +8,4 @@ checkpoints:
   - sql_basics
   - aggregating_and_grouping
   - joins_and_ctes
-  - challenge_air_bnb_cities
+  - challenge_airbnb_cities
