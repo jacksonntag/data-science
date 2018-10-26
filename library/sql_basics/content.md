@@ -1,7 +1,10 @@
 ---
-time: 90 minutes
-name: SQL Basics
+title: SQL Basics
 author: Alex Nussbacher and Tauhida Parveen
+team: grading
+type: graded
+time: 90 minutes
+uuid: 7adf65cf-8fd6-4b9d-84c5-7e945fcdf3c6
 ---
 
 We're now ready to begin learning SQL statements for creating and querying (that is, looking for data in) database tables. As a data scientist, database queries are the foundation on which much of your work will rest: in order to analyze and model data, you first need to get the *right* data, and SQL provides a rich set of statements that can be combined to precisely specify the data you want to retrieve from a database. 

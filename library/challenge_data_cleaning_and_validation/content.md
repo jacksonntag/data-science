@@ -1,8 +1,10 @@
 ---
-time: 120
-name: 'Challenge: Data cleaning & validation'
+title: 'Challenge: Data cleaning & validation'
 author: Bethany Kok
-
+team: grading
+type: graded
+time: 120
+uuid: 4be74fcc-ef13-45b6-8ff2-03270901a622
 ---
 
 Data cleaning is definitely a "practice makes perfect" skill.  Using this dataset of article open-access prices paid by the [WELLCOME Trust between 2012 and 2013](https://www.dropbox.com/s/pl5kcrhs2lyj90m/WELLCOME.zip?dl=0), determine the five most common journals and the total articles for each.  Next, calculate the mean, median, and standard deviation of the open-access cost per article for each journal . You will need to do considerable data cleaning in order to extract accurate estimates, and may want to look into data [encoding methods](https://stackoverflow.com/questions/2241348/what-is-unicode-utf-8-utf-16) if you get stuck. For a real bonus round, identify the open access prices paid by subject area.

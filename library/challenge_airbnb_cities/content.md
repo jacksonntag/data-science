@@ -1,10 +1,11 @@
 ---
-time: 90 
-name: 'Challenge: Airbnb cities'
+title: 'Challenge: Airbnb cities'
 author: Alex Nussbacher and Tauhida Parveen
-
+team: grading
+type: graded
+time: 90
+uuid: 5800a40f-5e01-48e4-8381-da26d7e0c330
 ---
-
 
 Now that you're comfortable with the Postgres database knowledge, try spinning up your own. Let's use this data set from [Airbnb](http://insideairbnb.com/get-the-data.html). Pick a city and download the CSVs for that city. 
 
