@@ -1,0 +1,6 @@
+name: 'Careers: applying, interviewing, negotiating, and getting jobs'
+code: DSBC-INTERVIEWING
+checkpoints:
+  - job_postings
+  - applying_for_jobs
+  - interviewing
