@@ -20,4 +20,4 @@ Here's a breakdown of the topics we'll cover:
 - storytelling with data
 - distributions
 
-This module ends with a challenge where you'll be asked to identify a dataset, conduct preliminary analysis, and write a research proposal recommending further work based on your preliminary analysis.
+This module ends with your first capstone for this course in which you'll identify a dataset, conduct preliminary analysis, and write a research proposal recommending further work based on your preliminary analysis.
