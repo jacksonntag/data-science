@@ -1,0 +1,9 @@
+name: SQL for Data Scientists
+code: DSBC-SQL-1
+checkpoints:
+  - sql_for_data_scientists_intro
+  - setting_up_postgres
+  - sql_basics
+  - aggregating_and_grouping
+  - joins_and_ctes
+  - challenge_air_bnb_cities
