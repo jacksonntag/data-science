@@ -1,8 +1,11 @@
 ---
 title: Simpson's paradox
+author: Thinkful
+team: grading
+type: graded
 time: 45
+uuid: 6737e511-e0a5-48ab-bb90-581556bb5b5d
 ---
-
 
 Imagine you're analyzing gender differences in a university's admissions rate for graduate programs.  You compute the proportion of successful female applicants and compare it to the proportion of successful male applicants, and get the following numbers: 
 

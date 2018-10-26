@@ -1,6 +1,10 @@
 ---
 title: The research proposal
+author: Thinkful
+team: grading
+type: graded
 time: 60
+uuid: de3eb101-2eb3-415b-8cec-a0f831e887b2
 ---
 
 Experiments work best when they build on existing knowledge to address a clearly defined problem. A **research proposal** is an organized "battle plan" in three parts:
