@@ -2,7 +2,6 @@
 title: Data types
 author: Thinkful
 team: grading
-type: graded
 time: 90
 uuid: d410472b-765f-4b55-8dbc-d3e0e21c5850
 ---

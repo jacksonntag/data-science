@@ -2,7 +2,6 @@
 title: 'Challenge: Evaluate an experiment analysis'
 author: Thinkful
 team: grading
-type: graded
 time: 90
 uuid: 5c236159-11fd-48c8-be83-3428f64178c3
 ---

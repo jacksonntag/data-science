@@ -2,7 +2,6 @@
 title: Applying for Jobs
 author: Stephanie Bermudez
 team: grading
-type: project
 time: 4 hours
 uuid: 178a45b5-2fd4-4f8b-8c8f-02d5a5bd3d41
 ---

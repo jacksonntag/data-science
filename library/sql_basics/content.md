@@ -2,7 +2,6 @@
 title: SQL Basics
 author: Alex Nussbacher and Tauhida Parveen
 team: grading
-type: graded
 time: 90 minutes
 uuid: 7adf65cf-8fd6-4b9d-84c5-7e945fcdf3c6
 ---

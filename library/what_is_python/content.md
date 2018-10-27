@@ -2,7 +2,6 @@
 title: What is Python
 author: Thinkful
 team: grading
-type: graded
 time: 30
 uuid: db80b113-0127-415e-8522-cb1fe587c0cf
 ---
