@@ -1,0 +1,7 @@
+name: 'Specialization: biostatistics'
+code: DSBC-BIOSTATS
+checkpoints:
+  - specialization_biostatistics_intro
+  - what_is_a_biostat
+  - meta_analysis
+  - survival_analysis

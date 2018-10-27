@@ -1,0 +1,7 @@
+name: Other topics
+code: DSBC-OTHER
+checkpoints:
+  - algorithms_and_data_structures
+  - web_scraping
+  - survey_design
+  - advanced_experimentation

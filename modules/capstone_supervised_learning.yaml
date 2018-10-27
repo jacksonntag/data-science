@@ -1,0 +1,4 @@
+name: 'Capstone: supervised learning'
+code: DSBC-CAPSTONE-SUPERVISED-LEARNING
+checkpoints:
+  - capstone_supervised_learning

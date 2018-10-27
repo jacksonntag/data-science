@@ -1,0 +1,13 @@
+name: 'Specialization: natural language processing'
+code: DSBC-NLP
+checkpoints:
+  - specialization_nlp_intro
+  - basics_of_language_parsing
+  - supervised_nlp
+  - unsupervised_nlp
+  - unsupervised_nn_word2vec
+  - challenge_build_your_own_nlp_model
+  - sense2vec_and_ngrams
+  - text_summarization
+  - advanced_text_extraction
+  - advanced_text_extraction_challenge

@@ -1,0 +1,7 @@
+name: 'Unsupervised learning'
+code: DSBC-UNSUPER-LEARN
+checkpoints:
+  - unsupervised_learning_intro
+  - clustering
+  - neural_networks_and_deep_learning
+  - natural_language_processing

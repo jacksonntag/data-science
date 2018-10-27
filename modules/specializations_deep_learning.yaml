@@ -1,0 +1,12 @@
+name: 'Specialization: deep learning'
+code: DSBC-DEEP-LEARNING
+checkpoints:
+  - specialization_deep_learning_intro
+  - perceptron_models
+  - supervised_neural_nets
+  - unsupervised_neural_nets
+  - challenge_make_a_neural_network
+  - tensor_flow_and_keras
+  - first_tensor_flow_model
+  - first_keras_model
+  - challenge_specialization_deep_learning

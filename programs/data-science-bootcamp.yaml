@@ -9,3 +9,27 @@ modules:
   - sql_for_data_scientists
   - data_visualization_and_exploration
   - experimental_design_and_a_b_testing
+  - careers_applying_interviewing_getting_and_negotiating_jobs
+  - supervised_learning_model_prep
+  - supervised_learning_solving_classification_problems
+  - supervised_learning_solving_regression_problems
+  - supervised_learning_similarity_models
+  - supervised_learning_random_forest_models
+  - supervised_learning_advanced_regression
+  - supervised_learning_support_vector_machines
+  - supervised_learning_boosting_models
+  - capstone_supervised_learning
+  - careers_professional_branding
+  - unsupervised_learning
+  - capstone_unsupervised_learning
+  - other_topics
+  - specializations_time_series_analysis
+  - specializations_network_analysis
+  - specializations_economics
+  - specializations_nlp
+  - specializations_social_sciences
+  - specializations_tensor_flow_and_keras
+  - specializations_biostatistics
+  - specializations_big_data_and_spark
+  - capstone_final_project
+  

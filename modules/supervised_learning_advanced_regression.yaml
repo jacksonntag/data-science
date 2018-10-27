@@ -1,0 +1,7 @@
+name: 'Supervised learning: advanced regression'
+code: DSBC-ADVANCED-REGRESSION
+checkpoints:
+  - supervised_learning_advanced_regression_intro
+  - logistic_regression
+  - ridge_regression
+  - lasso_regression

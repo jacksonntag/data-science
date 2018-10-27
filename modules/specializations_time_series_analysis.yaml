@@ -1,0 +1,9 @@
+name: 'Specialization: time series analysis'
+code: DSBC-NETWORK-ANALYSIS
+checkpoints:
+  - specialization_time_series_analysis_intro
+  - basics_of_modeling_time
+  - stochastic_processes
+  - arima_modeling
+  - specialization_time_series_analysis_example
+  - specialization_time_series_analysis_challenge

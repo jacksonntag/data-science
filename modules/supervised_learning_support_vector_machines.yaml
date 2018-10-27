@@ -1,0 +1,8 @@
+name: 'Supervised learning: support vector machines'
+code: DSBC-SUPPORT-VECTOR-MACHINES
+checkpoints:
+  - supervised_learning_svms_intro
+  - linear_svm
+  - the_kernel_trick
+  - svm_extensions
+  - guided_example_and_challenge_svms

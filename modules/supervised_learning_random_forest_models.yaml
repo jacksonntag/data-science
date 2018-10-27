@@ -1,0 +1,10 @@
+name: 'Supervised learning: random forest models'
+code: DSBC-RANDOM-FOREST
+checkpoints:
+  - supervised_learning_random_forest_intro
+  - decision_trees
+  - the_id3_algorithm
+  - random_forest
+  - ensemble_modeling
+  - guided_example_random_forest
+  - challenge_compare_decision_trees_and_random_forest

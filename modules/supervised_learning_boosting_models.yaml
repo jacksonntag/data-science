@@ -1,0 +1,7 @@
+name: 'Supervised learning: boosting models'
+code: DSBC-BOOSTING-MODELS
+checkpoints:
+  - supervised_learning_boosting_models_intro
+  - gradient_boost
+  - guided_example_and_challenge_boosting_models
+  - challenge_what_model_can_answer_the_question

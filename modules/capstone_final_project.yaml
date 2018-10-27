@@ -1,0 +1,8 @@
+name: 'Capstone: final project'
+code: DSBC-FINAL-CAPSTONE
+checkpoints:
+  - capstone_final_project_intro
+  - final_project_proposal
+  - final_project_notebook_submission
+  - preparing_for_final_project_interview
+  - preparing_for_your_final_presentation

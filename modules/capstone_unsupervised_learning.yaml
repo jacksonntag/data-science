@@ -1,0 +1,4 @@
+name: 'Capstone: Unsupervised learning'
+code: DSBC-CAPSTONE-UNSUPER-LEARN
+checkpoints:
+  - capstone_unsupervised_learning

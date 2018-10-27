@@ -1,0 +1,9 @@
+name: 'Specializations: big data with Spark'
+code: DSBC-BIG-DATA-SPARK
+checkpoints:
+  - big_data_spark_intro
+  - up_and_running_with_docker
+  - big_data_spark_example_rfc
+  - challenge_sentiment_analysis_for_amazon_reviews
+  - spark_streaming_with_network_traffic_data
+  - challenge_twitter_streaming

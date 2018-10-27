@@ -1,0 +1,14 @@
+name: 'Supervised learning: solving classification problems'
+code: DSBC-CLASSIFICATION-PROBLEMS
+checkpoints:
+  - supervised_learning_classification_problems_intro
+  - regression_vs_classification
+  - algorithm_basics
+  - naive_bayes
+  - feature_engineering
+  - guided_example_spam_classification_with_naive_bayes
+  - challenge_sentiment_analysis_with_naive_bayes
+  - accuracy_and_error_types
+  - class_imbalance
+  - in_sample_evaluation_and_cross_validation
+  - challenge_evaluate_your_sentiment_classifier

@@ -1,0 +1,11 @@
+name: 'Supervised learning: model preparation'
+code: DSBC-MODEL-PREP
+checkpoints:
+  - supervised_learning_model_prep_intro
+  - what_is_a_model
+  - formulating_a_research_question
+  - exploring_data
+  - feature_engineering
+  - principal_component_analysis
+  - feature_selection
+  - challenge_prepare_a_data_set_for_modeling

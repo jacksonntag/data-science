@@ -1,0 +1,7 @@
+name: 'Specialization: network analysis'
+code: DSBC-NETWORK-ANALYSIS
+checkpoints:
+  - specialization_network_analysis_intro
+  - visualizing_and_quantifying_networks_with_network_x
+  - specialization_network_analysis_example
+  - challenge_specialization_network_analysis

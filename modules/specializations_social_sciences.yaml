@@ -1,0 +1,6 @@
+name: 'Specialization: social sciences'
+code: DSBC-SOCIAL-SCIENCE
+checkpoints:
+  - specialization_social_sciences_intro
+  - mixed_effects_modeling
+  - specialization_social_sciences_challenge
