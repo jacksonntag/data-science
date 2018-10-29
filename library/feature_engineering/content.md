@@ -1,6 +1,6 @@
 ---
 title: Feature engineering
-time: 5
+time: 60
 ---
 
-coming soon...
+<jupyter notebook-name="feature_engineering" course-code="DSBC" />

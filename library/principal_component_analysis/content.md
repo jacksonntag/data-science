@@ -1,6 +1,7 @@
 ---
 title: Principal component analysis
-time: 5
+time: 90
 ---
 
-coming soon...
+
+<jupyter notebook-name="principal_component_analysis" course-code="DSBC" />

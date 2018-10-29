@@ -3,4 +3,4 @@ title: Exploring data
 time: 5
 ---
 
-coming soon...
+<jupyter notebook-name="exploring_data" course-code="DSBC" />
