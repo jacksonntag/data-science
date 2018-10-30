@@ -2,7 +2,6 @@
 title: 'Challenge: Data cleaning & validation'
 author: Bethany Kok
 team: grading
-type: graded
 time: 120
 uuid: 4be74fcc-ef13-45b6-8ff2-03270901a622
 ---

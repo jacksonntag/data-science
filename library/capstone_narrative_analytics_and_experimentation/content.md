@@ -2,7 +2,6 @@
 title: 'Capstone: narrative analytics and experimentation'
 author: Thinkful
 team: grading
-type: graded
 time: 420
 uuid: 438acbb8-59cc-4c5b-b51a-f6d181bd2a3e
 ---

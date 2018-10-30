@@ -2,7 +2,6 @@
 title: 'Logic, control flow, and conditionals'
 author: Thinkful
 team: grading
-type: graded
 time: 240
 uuid: 2507432c-741e-47cc-acba-22eb1aac7dc6
 ---

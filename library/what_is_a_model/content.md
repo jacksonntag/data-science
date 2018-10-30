@@ -1,6 +1,9 @@
 ---
 title: What is a model?
+author: Thinkful
+team: grading
 time: 30
+uuid: cbbfb8f1-cf27-4489-99a2-547415f95363
 ---
 
 Statistical models are ubiquitous.  We rely on statistical models (or just "models") every time we [check the weather report](https://www.weather.gov/mdl/StatisticalModeling_home), [choose a movie recommended by Netflix]( https://www.theatlantic.com/technology/archive/2014/01/how-netflix-reverse-engineered-hollywood/282679/), or [get excited about our favorite presidential candidate's electoral potential](https://fivethirtyeight.com/features/a-users-guide-to-fivethirtyeights-2016-general-election-forecast/).

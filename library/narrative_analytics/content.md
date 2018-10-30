@@ -2,7 +2,6 @@
 title: Narrative analytics
 author: Thinkful
 team: grading
-type: graded
 time: 240
 uuid: 48d67e40-caed-455b-bb1d-f89064640077
 ---

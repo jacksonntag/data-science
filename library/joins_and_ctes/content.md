@@ -2,7 +2,6 @@
 title: Joins and CTEs
 author: Alex Nussbacher
 team: grading
-type: graded
 time: 120
 uuid: ab2939f9-2097-4b84-b566-0a785353b8f5
 ---

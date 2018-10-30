@@ -2,7 +2,6 @@
 title: Dealing with missing data
 author: Thinkful
 team: grading
-type: graded
 time: 60
 uuid: c99f998a-758f-458c-8026-aef90c34103e
 ---

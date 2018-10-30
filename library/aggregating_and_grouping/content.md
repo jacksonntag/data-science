@@ -2,7 +2,6 @@
 title: Aggregating and grouping
 author: Alex Nussbacher and Tauhida Parveen
 team: grading
-type: graded
 time: 90 minutes
 uuid: 1796c9a4-47a1-4839-9fb6-3a06b479a6d7
 ---

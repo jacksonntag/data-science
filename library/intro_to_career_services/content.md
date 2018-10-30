@@ -2,7 +2,6 @@
 title: Introducing career services
 author: Thinkful
 team: grading
-type: graded
 time: 5 mins
 uuid: 0633089c-8b66-41ef-aebe-e1b02d4303d8
 ---

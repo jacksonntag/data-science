@@ -2,7 +2,6 @@
 title: Function basics
 author: Thinkful
 team: grading
-type: graded
 time: 60
 uuid: 1176819f-18b2-4416-979f-5eaa51604897
 ---

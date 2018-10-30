@@ -1,6 +1,9 @@
 ---
 title: Feature selection
+author: Thinkful
+team: grading
 time: 30
+uuid: 6f0b158a-870a-400d-93b5-1c268a9d0810
 ---
 
 Feature selection is like handing out roses on _The Bachelor_.  We want to keep the features that have the strongest connection to the outcome, while also prioritizing features that bring something unique to the table.  Unlike _The Bachelor_, our goal isn't to narrow the options down to only one ideal featurette, but to settle on the set of features that is relatively straightforward to understand, is predictively powerful, minimizes overfitting, and is relatively computationally efficient.  Feature selection is a balancing act between explanatory power and model parsimony.  Fortunately, many feature selection algorithms are available to help data scientists optimize their feature sets.

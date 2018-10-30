@@ -2,7 +2,6 @@
 title: A/B testing
 author: Thinkful
 team: grading
-type: graded
 time: 45
 uuid: 27916d10-4041-4b07-9435-35e1da6d5d7e
 ---

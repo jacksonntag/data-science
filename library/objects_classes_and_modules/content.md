@@ -2,7 +2,6 @@
 title: 'Objects, classes, and modules'
 author: Thinkful
 team: grading
-type: graded
 time: 120
 uuid: cf51d657-2137-42a4-99e6-dab1a2b41ac9
 ---

@@ -2,7 +2,6 @@
 title: Working with your mentor
 author: Thinkful
 team: grading
-type: graded
 time: 5
 uuid: f1bf44dc-02fa-43c0-a2e4-b43576b4bfc3
 ---
