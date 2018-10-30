@@ -1,6 +1,9 @@
 ---
 title: Formulating a research question
+author: Thinkful
+team: grading
 time: 120
+uuid: 802728a5-0cc1-4a7c-9796-35491aa90d9b
 ---
 
 In this checkpoint, we'll discuss how to go about formulating a good research question for data modeling. 

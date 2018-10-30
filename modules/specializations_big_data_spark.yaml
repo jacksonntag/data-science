@@ -7,3 +7,4 @@ checkpoints:
   - challenge_sentiment_analysis_for_amazon_reviews
   - spark_streaming_with_network_traffic_data
   - challenge_twitter_streaming
+uuid: 6f55155b-3d9a-4bb2-8eed-96e50a514934
