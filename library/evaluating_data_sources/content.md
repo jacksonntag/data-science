@@ -2,7 +2,6 @@
 title: Evaluating data sources
 author: Thinkful
 team: grading
-type: graded
 time: 60
 uuid: 985d68e8-bb41-4773-8ba8-57fc62abba6a
 ---

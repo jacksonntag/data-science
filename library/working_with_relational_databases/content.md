@@ -2,7 +2,6 @@
 title: Working with relational databases
 author: Thinkful
 team: grading
-type: graded
 time: 45
 uuid: 0fd0aafe-9c0b-4e3f-a871-455b73ac7e6a
 ---

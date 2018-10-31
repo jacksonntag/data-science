@@ -2,7 +2,6 @@
 title: 'Challenge: Airbnb cities'
 author: Alex Nussbacher and Tauhida Parveen
 team: grading
-type: graded
 time: 90
 uuid: 5800a40f-5e01-48e4-8381-da26d7e0c330
 ---

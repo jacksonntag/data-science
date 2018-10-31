@@ -2,7 +2,6 @@
 title: Intro
 author: Thinkful
 team: grading
-type: graded
 time: 5
 uuid: b2677961-9f52-4d29-9041-0e59495ab143
 ---

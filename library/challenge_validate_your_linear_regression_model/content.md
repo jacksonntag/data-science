@@ -1,6 +1,9 @@
 ---
-title: "Challenge: validate your linear regression model"
+title: 'Challenge: validate your linear regression model'
+author: Thinkful
+team: grading
 time: 90
+uuid: ce6b39f9-7b95-47b3-b42c-099eedd39b8f
 ---
 
 ## Validating regression models for prediction

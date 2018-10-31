@@ -5,3 +5,4 @@ checkpoints:
   - logistic_regression
   - ridge_regression
   - lasso_regression
+uuid: 717317ab-651c-4a4a-8d23-63691de67e8e

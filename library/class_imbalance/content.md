@@ -1,6 +1,9 @@
 ---
 title: Class imbalance
+author: Thinkful
+team: grading
 time: 30
+uuid: 0afebbd9-2670-4a39-acae-c3d52054a108
 ---
 
 Let's return our spam model. We had accuracy of about 89%. This sounds pretty impressive. It means we predict incorrectly roughly one time out of ten. But is that accuracy actually a good standard? It turns out not so much. This scenario is an example of a class imbalance problem, where one kind of outcome is much more common than the other, skewing the model. In this assignment we'll describe what class imbalance is and how to deal with it from a practical perspective.

@@ -2,7 +2,6 @@
 title: Getting help between sessions
 author: Thinkful
 team: grading
-type: graded
 time: 5
 uuid: 74829c7f-d5f4-4b7e-9692-cac074495c4d
 ---

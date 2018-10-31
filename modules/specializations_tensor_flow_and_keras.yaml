@@ -1,0 +1,5 @@
+name: 'Specialization: TensorFlow and keras'
+code: DSBC-TENSOR-FLOW
+uuid: fa0945e6-3f59-48ca-aace-35795b88a808
+checkpoints:
+  - tensor_flow_and_keras

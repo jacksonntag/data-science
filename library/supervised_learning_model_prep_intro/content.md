@@ -1,6 +1,9 @@
 ---
 title: Intro
+author: Thinkful
+team: grading
 time: 5
+uuid: f03e6dcd-1a7b-4787-b860-7a241aad0cc3
 ---
 
 In this module, we'll explore **supervised learning** is one of the main branches of the broader field of **machine learning**. Machine learning deals with discerning models from collections of data in order to do things like make predictions or classifications.

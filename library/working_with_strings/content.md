@@ -2,7 +2,6 @@
 title: Working with strings
 author: Thinkful
 team: grading
-type: graded
 time: 240
 uuid: 32509423-b6b8-4009-8336-06f1fc9ab9a5
 ---

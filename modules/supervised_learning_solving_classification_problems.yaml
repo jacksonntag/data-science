@@ -12,3 +12,4 @@ checkpoints:
   - class_imbalance
   - in_sample_evaluation_and_cross_validation
   - challenge_evaluate_your_sentiment_classifier
+uuid: dbe9a9a2-4ad2-4778-a6f5-f30bad7d5041

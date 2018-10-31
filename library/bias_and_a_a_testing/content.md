@@ -2,7 +2,6 @@
 title: Bias and A/A testing
 author: Thinkful
 team: grading
-type: graded
 time: 120
 uuid: 45bab026-6ab4-4684-8185-1fd61bb64c27
 ---

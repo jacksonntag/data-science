@@ -1,6 +1,9 @@
 ---
-title: "Challenge: evaluate your sentiment classifier"
 time: 45
+title: 'Challenge: evaluate your sentiment classifier'
+author: Thinkful
+team: grading
+uuid: 56c9d286-54fd-4727-9f57-14f2b915cc3b
 ---
 
 It's time to revisit your classifier from the previous assignment. Using the evaluation techniques we've covered here, look at your classifier's performance in more detail. Then go back and iterate by engineering new features, removing poor features, or tuning parameters. Repeat this process until you have five different versions of your classifier. Once you've iterated, answer these questions to compare the performance of each:

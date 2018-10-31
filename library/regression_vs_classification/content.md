@@ -1,6 +1,9 @@
 ---
+title: Regression vs. classificaiton
+author: Thinkful
+team: grading
 time: 60
-name: Regression vs classification
+uuid: 154a959a-c084-49d4-9a16-fdfd71448e0e
 ---
 
 When building a model, the first question to ask is: "What kind of model do I need to build?" There are many many possible answers to that question, so it's worth working from the top down. We've already said that this Unit will be about supervised learning and covered a little bit about what that means. Within supervised learning there are two main groups: **classification** and **regression**. This checkpoint will focus on the distinction between those two categories and how you choose which kind of model you want to build.

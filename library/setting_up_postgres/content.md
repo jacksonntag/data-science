@@ -2,7 +2,6 @@
 title: Setting up Postgres
 author: Tauhida Parveen
 team: grading
-type: graded
 time: 45
 uuid: 51e4ef0c-6a44-4586-9893-0e4cdf43fa05
 ---

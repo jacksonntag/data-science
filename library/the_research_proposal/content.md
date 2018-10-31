@@ -2,7 +2,6 @@
 title: The research proposal
 author: Thinkful
 team: grading
-type: graded
 time: 60
 uuid: de3eb101-2eb3-415b-8cec-a0f831e887b2
 ---

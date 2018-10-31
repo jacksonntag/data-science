@@ -1,6 +1,9 @@
 ---
+title: 'Challenge: Preparing a dataset for modeling'
+author: Thinkful
+team: grading
 time: 90
-name: 'Challenge: Preparing a dataset for modeling'
+uuid: db215f11-7699-40a7-96e6-316fe64dfefd
 ---
 
 Now it's time to play with some data. You're going to work through the stages of model preparation we've covered in this lesson and write up each one. Keep a good record in a Jupyter notebook – we'll come back to your features in a future model-building assignment on Least Squares Regression.

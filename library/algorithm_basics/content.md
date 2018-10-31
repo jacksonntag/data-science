@@ -1,6 +1,9 @@
 ---
 time: 30
-name: Algorithms basics
+title: Algorithms basics
+author: Thinkful
+team: grading
+uuid: 686422f5-e295-4687-8629-41e1303c2f30
 ---
 
 As we get into the modeling sections of this course, it’s important to stop and introduce algorithms. We’ll talk about algorithms in detail in their own section later in the course, but we’ll introduce some of the basic concepts here that will help you to understand the models we cover and how they actually work.

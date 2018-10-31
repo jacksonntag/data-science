@@ -30,6 +30,5 @@ modules:
   - specializations_social_sciences
   - specializations_tensor_flow_and_keras
   - specializations_biostatistics
-  - specializations_big_data_and_spark
+  - specializations_big_data_spark
   - capstone_final_project
-  
