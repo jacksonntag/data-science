@@ -1,8 +1,8 @@
 ---
-time: 30
 title: Algorithms basics
 author: Thinkful
 team: grading
+time: 30
 uuid: 686422f5-e295-4687-8629-41e1303c2f30
 ---
 

@@ -6,7 +6,6 @@ time: 60
 uuid: 55271655-9876-490f-9776-dbfa5f268d7b
 ---
 
-
 Now that you've spent some time playing with a sample multivariate linear regression model, it's time to make your own.
 
 You've already gotten started by prepping the [FBI:UCR Crime dataset](https://ucr.fbi.gov/crime-in-the-u.s/2013/crime-in-the-u.s.-2013/tables/table-8/table-8-state-cuts/table_8_offenses_known_to_law_enforcement_new_york_by_city_2013.xls) ([Thinkful mirror](https://raw.githubusercontent.com/Thinkful-Ed/data-201-resources/master/New_York_offenses/NEW_YORK-Offenses_Known_to_Law_Enforcement_by_City_2013%20-%2013tbl8ny.csv)) in a previous checkpoint.

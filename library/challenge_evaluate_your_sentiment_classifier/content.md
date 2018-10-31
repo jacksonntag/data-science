@@ -1,8 +1,8 @@
 ---
-time: 45
 title: 'Challenge: evaluate your sentiment classifier'
 author: Thinkful
 team: grading
+time: 45
 uuid: 56c9d286-54fd-4727-9f57-14f2b915cc3b
 ---
 
