@@ -1,6 +1,7 @@
 ---
-title: "Guided example: spam classification with Naive Bayes"
-time: 5
+time: 45
+name: 'Guided example: spam filter'
 ---
 
-coming soon...
+<jupyter notebook-name="naive_bayes_spam_filter" course-code="DSBC" />
+

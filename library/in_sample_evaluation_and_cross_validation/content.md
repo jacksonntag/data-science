@@ -1,6 +1,6 @@
 ---
 title: In-sample evaluation and cross-validation
-time: 5
+time: 30
 ---
 
-coming soon...
+<jupyter notebook-name="in_sample_and_cross_validation" course-code="DSBC" />

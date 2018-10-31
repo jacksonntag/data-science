@@ -1,6 +1,7 @@
 ---
-title: Naive Bayes
-time: 5
+time: 30
+name: Naive Bayes
 ---
 
-coming soon...
+<jupyter notebook-name="naive_bayes" course-code="DSBC" />
+
