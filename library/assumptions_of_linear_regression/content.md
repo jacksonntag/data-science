@@ -1,6 +1,6 @@
 ---
-title: Assumptions of linear regression
-time: 5
+title: The assumptions of linear regression and what to do about them
+time: 60
 ---
 
-coming soon...
+<jupyter notebook-name="assumptions_of_linear_regression" course-code="DSBC" />

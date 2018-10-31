@@ -1,6 +1,6 @@
 ---
 title: Dimensionality reduction in linear regression
-time: 5
+time: 60
 ---
 
-coming soon...
+<jupyter notebook-name="dimensionality_reduction_in_linear_regression" course-code="DSBC" />

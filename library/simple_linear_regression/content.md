@@ -1,6 +1,6 @@
 ---
 title: Simple linear regression
-time: 5
+time: 30
 ---
 
-coming soon...
+<jupyter notebook-name="simple_linear_regression" course-code="DSBC" />

@@ -1,6 +1,6 @@
 ---
 title: Multivariable regression
-time: 5
+time: 30
 ---
 
-coming soon...
+<jupyter notebook-name="multivariable_regression" course-code="DSBC" />

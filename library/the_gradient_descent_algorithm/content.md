@@ -1,6 +1,6 @@
 ---
 title: Gradient descent
-time: 5
+time: 30
 ---
 
-coming soon...
+<jupyter notebook-name="the_gradient_descent_algorithm" course-code="DSBC" />

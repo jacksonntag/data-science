@@ -1,6 +1,6 @@
 ---
 title: Testing linear regression models
-time: 5
+time: 60
 ---
 
-coming soon...
+<jupyter notebook-name="testing_linear_regression_models" course-code="DSBC" />
