@@ -20,7 +20,8 @@ modules:
   - supervised_learning_boosting_models
   - capstone_supervised_learning
   - careers_professional_branding
-  - unsupervised_learning
+  - unsupervised_learning_clustering
+  - unsupervised_learning_neural_networks
   - capstone_unsupervised_learning
   - other_topics
   - specializations_time_series_analysis

@@ -1,0 +1,10 @@
+name: "Unsupervised learning: neural networks"
+code: DSBC-NEURAL-NETWORKS
+checkpoints:
+  - unsupervised_learning_neural_networks_intro
+  - perceptron_models
+  - what_is_a_neural_network
+  - supervised_neural_networks
+  - unsupervised_neural_networks
+  - other_terms_in_neural_networks
+  - challenge_make_a_neural_network

@@ -1,0 +1,10 @@
+name: "Unsupervised learning: clustering"
+code: DSBC-CLUSTERING
+checkpoints:
+  - unsupervised_learning_clustering_intro
+  - clustering_and_k_means
+  - other_approaches_to_clustering
+  - clustering_evaluation
+  - challenge_clustering_boston_marathon_results
+
+uuid: e3711b92-f463-4a96-89c8-b4be174704ea
