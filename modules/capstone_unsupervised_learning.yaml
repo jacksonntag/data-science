@@ -1,5 +1,6 @@
+uuid: 48658039-59c4-4e92-8d91-2fc3c4dd50a5
 name: 'Capstone: Unsupervised learning'
 code: DSBC-CAPSTONE-UNSUPER-LEARN
+version: 1
 checkpoints:
   - capstone_unsupervised_learning
-uuid: 48658039-59c4-4e92-8d91-2fc3c4dd50a5

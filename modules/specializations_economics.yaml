@@ -1,7 +1,8 @@
+uuid: 1af1ddf2-3840-4f37-8a22-5428ea3ecd1a
 name: 'Specialization: economics'
 code: DSBC-ECONOMICS
+version: 1
 checkpoints:
   - specialization_economics_intro
   - specialization_economics_example
   - specialization_economics_challenge
-uuid: 1af1ddf2-3840-4f37-8a22-5428ea3ecd1a

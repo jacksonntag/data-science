@@ -1,6 +1,9 @@
 ---
 title: What is a neural network?
+author: Thinkful
+team: grading
 time: 30
+uuid: 210c6cbd-419d-4898-bd42-c751dd41ab77
 ---
 
 Before we do anything more we need to talk. How's it going? You all right? Hopefully things are hard but not, you know, too hard. The sweet spot. Going on a tough hike but not climbing Everest. Maybe you've even seen a few of the signposts that say "Everest, this way" and wandered down those paths for a bit to see what was there. It's fun to live on the edge every now and again. But we haven't strayed far down any of those paths or pushed to too great a height too quickly.

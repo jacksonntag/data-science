@@ -1,9 +1,10 @@
+uuid: c3037c56-3787-4e1b-b3fd-2dfaefc6ef42
 name: 'Capstone: final project'
 code: DSBC-FINAL-CAPSTONE
+version: 1
 checkpoints:
   - capstone_final_project_intro
   - final_project_proposal
   - final_project_notebook_submission
   - preparing_for_final_project_interview
   - preparing_for_your_final_presentation
-uuid: c3037c56-3787-4e1b-b3fd-2dfaefc6ef42

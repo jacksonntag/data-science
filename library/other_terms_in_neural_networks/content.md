@@ -1,6 +1,9 @@
 ---
 title: Other terms in neural networks
+author: Thinkful
+team: grading
 time: 60
+uuid: 38057b12-6387-4a7b-b75a-c205193d4747
 ---
 
 Before we move on there are a few other terms we need to introduce, just so you're familiar with the 'lingo' the 'kids' are using these days.

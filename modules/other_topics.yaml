@@ -1,8 +1,9 @@
+uuid: 0ca512a0-b4a2-4e0d-8372-d92c82f737e7
 name: Other topics
 code: DSBC-OTHER
+version: 1
 checkpoints:
   - algorithms_and_data_structures
   - web_scraping
   - survey_design
   - advanced_experimentation
-uuid: 0ca512a0-b4a2-4e0d-8372-d92c82f737e7

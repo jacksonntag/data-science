@@ -1,7 +1,8 @@
+uuid: acf9493b-2334-494a-a72e-d0ea7962effb
 name: 'Careers: applying, interviewing, negotiating, and getting jobs'
 code: DSBC-INTERVIEWING
+version: 1
 checkpoints:
   - job_postings
   - applying_for_jobs
   - interviewing
-uuid: acf9493b-2334-494a-a72e-d0ea7962effb

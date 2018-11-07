@@ -1,8 +1,9 @@
 ---
-title: "Challenge: The boston marathon"
+title: 'Challenge: The boston marathon'
 author: Thinkful
 team: grading
 time: 180
+uuid: 47bc765d-9328-4ede-8806-6c45d70e2105
 ---
 
 You now have a pretty varied suite of clustering and clustering evaluation methods; we'd be remiss if we didn't give you the opportunity to try them out on some real data. So here we go!

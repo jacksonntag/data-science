@@ -1,13 +1,14 @@
+uuid: 755094ab-0483-4bcb-99f4-87e07e38ccab
 name: 'Specialization: deep learning'
 code: DSBC-DEEP-LEARNING
+version: 1
 checkpoints:
   - specialization_deep_learning_intro
   - perceptron_models
-  - supervised_neural_nets
-  - unsupervised_neural_nets
+  - supervised_neural_networks
+  - unsupervised_neural_networks
   - challenge_make_a_neural_network
   - tensor_flow_and_keras
   - first_tensor_flow_model
   - first_keras_model
   - challenge_specialization_deep_learning
-uuid: 755094ab-0483-4bcb-99f4-87e07e38ccab

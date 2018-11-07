@@ -1,5 +1,7 @@
+uuid: e25281d8-4245-468b-8abc-d053a25f6494
 name: 'Specialization: natural language processing'
 code: DSBC-NLP
+version: 1
 checkpoints:
   - specialization_nlp_intro
   - basics_of_language_parsing
@@ -11,4 +13,3 @@ checkpoints:
   - text_summarization
   - advanced_text_extraction
   - advanced_text_extraction_challenge
-uuid: e25281d8-4245-468b-8abc-d053a25f6494

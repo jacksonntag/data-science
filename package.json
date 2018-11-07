@@ -12,6 +12,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@thinkful/zapdos": "^0.1.0"
+    "@thinkful/zapdos": "^0.2.1"
   }
 }

@@ -1,8 +1,9 @@
+uuid: eac3e7ec-8453-4919-b1ab-2b38b5dce72d
 name: 'Specialization: network analysis'
 code: DSBC-NETWORK-ANALYSIS
+version: 1
 checkpoints:
   - specialization_network_analysis_intro
   - visualizing_and_quantifying_networks_with_network_x
   - specialization_network_analysis_example
   - challenge_specialization_network_analysis
-uuid: eac3e7ec-8453-4919-b1ab-2b38b5dce72d
