@@ -1,5 +1,7 @@
+uuid: bc51219f-ce82-449d-a4cf-e2a504cea073
 name: 'Specialization: time series analysis'
 code: DSBC-NETWORK-ANALYSIS
+version: 1
 checkpoints:
   - specialization_time_series_analysis_intro
   - basics_of_modeling_time
@@ -7,4 +9,3 @@ checkpoints:
   - arima_modeling
   - specialization_time_series_analysis_example
   - specialization_time_series_analysis_challenge
-uuid: bc51219f-ce82-449d-a4cf-e2a504cea073

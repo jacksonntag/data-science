@@ -1,7 +1,8 @@
+uuid: edafa310-8835-43a3-bd4f-612d3321982f
 name: 'Careers: professional branding'
 code: DSBC-PROFESSIONAL-BRANDING
+version: 1
 checkpoints:
   - writing_a_winning_resume
   - linkedin_profile
   - the_art_of_cover_letters
-uuid: edafa310-8835-43a3-bd4f-612d3321982f

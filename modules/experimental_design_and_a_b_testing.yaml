@@ -1,5 +1,7 @@
+uuid: 71fcc29f-455e-45ce-8072-d8f54c4e150d
 name: Experiemental design and A/B testing
 code: DSBC-EXP-DES-AB-TEST
+version: 1
 checkpoints:
   - experimental_design_and_a_b_testing_intro
   - a_b_tests
@@ -11,4 +13,3 @@ checkpoints:
   - null_hypothesis_significance_testing
   - experimentation_guided_example
   - capstone_narrative_analytics_and_experimentation
-uuid: 71fcc29f-455e-45ce-8072-d8f54c4e150d

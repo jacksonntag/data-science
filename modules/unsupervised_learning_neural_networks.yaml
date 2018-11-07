@@ -1,5 +1,7 @@
-name: "Unsupervised learning: neural networks"
+uuid: 8bc40dfb-3bb7-4aa5-87d5-de71ef153263
+name: 'Unsupervised learning: neural networks'
 code: DSBC-NEURAL-NETWORKS
+version: 1
 checkpoints:
   - unsupervised_learning_neural_networks_intro
   - perceptron_models

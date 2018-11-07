@@ -1,5 +1,6 @@
+uuid: bef9923f-d408-45f0-a70c-5f8a341a1bab
 name: 'Capstone: supervised learning'
 code: DSBC-CAPSTONE-SUPERVISED-LEARNING
+version: 1
 checkpoints:
   - capstone_supervised_learning
-uuid: bef9923f-d408-45f0-a70c-5f8a341a1bab

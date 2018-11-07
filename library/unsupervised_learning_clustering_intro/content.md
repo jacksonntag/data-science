@@ -3,6 +3,7 @@ title: What is unsupervised learning?
 author: Thinkful
 team: grading
 time: 60
+uuid: 21b278e2-8d8e-436d-bb59-2705266df4c5
 ---
 
 In the beginning of the course we divided machine learning into two overarching types. We've now thoroughly covered the first class, supervised learning, and so we are ready to move on to the second: unsupervised learning. This module will go into depth about clustering, which is one of the most common unsupervised learning approaches.
