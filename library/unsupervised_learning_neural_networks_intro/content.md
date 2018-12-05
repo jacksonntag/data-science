@@ -3,6 +3,7 @@ title: Intro
 author: Thinkful
 team: grading
 time: 5
+uuid: 05d0482d-9a33-449d-9876-648bc214df87
 ---
 
 Neural Networks are one of the most popular and impactful branches of machine learning today. This is the very bleeding edge of data science, but it has historical roots. In this module we'll explore:

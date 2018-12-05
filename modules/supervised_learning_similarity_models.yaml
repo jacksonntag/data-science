@@ -1,9 +1,10 @@
+uuid: 31b14acc-683b-415d-b5bb-cc3413dc7d73
 name: 'Supervised learning: similarity models'
 code: DSBC-SIMILARITY-MODELS
+version: 1
 checkpoints:
   - supervised_learning_similarity_models_intro
   - knn_classifiers
   - tuning_knn
   - knn_regression
   - challenge_model_comparison
-uuid: 31b14acc-683b-415d-b5bb-cc3413dc7d73
