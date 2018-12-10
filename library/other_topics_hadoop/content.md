@@ -3,6 +3,7 @@ title: Hadoop and Big Data Storage
 author: Thinkful
 team: grading
 time: 45
+uuid: 55a0a578-668f-434b-aeba-db6a871197a9
 ---
 
 So you’re working somewhere with a lot of data, but what tools are you going to need? Chances are they’re going to be using Hadoop.

@@ -3,6 +3,7 @@ title: Trrees
 author: Thinkful
 team: grading
 time: 60
+uuid: c36fdfad-fd84-4028-b540-69ff3804a676
 ---
 
 The last data structure we’ll cover in this lesson is the tree. Trees are a bit different than the data structures we’ve seen thus far, but present a useful way for storing information that has either a hierarchical structure or that needs to be rapidly searchable. The most distinguishing trait of trees, however, is their sheer flexibility. We’ll explain what we mean below.

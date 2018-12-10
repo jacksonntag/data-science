@@ -1,8 +1,9 @@
 ---
-title: "Challenge: What to use"
+title: 'Challenge: What to use'
 author: Thinkful
 team: grading
 time: 120
+uuid: 80ef0fee-08d0-47ef-b467-4cc0d73066da
 ---
 
 Using selected questions from the 2012 and 2014 editions of the [European Social Survey](http://www.europeansocialsurvey.org/data/round-index.html), address the following questions.  Keep track of your code and results in a Jupyter notebook or other source that you can share with your mentor. For each question, explain why you chose the approach you did.

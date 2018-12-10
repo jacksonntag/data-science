@@ -3,6 +3,7 @@ title: Question design
 author: Thinkful
 team: grading
 time: 60
+uuid: 485299b7-3854-4b82-b4c8-ad9ff378efa2
 ---
 
 A survey is only as good as the questions it contains.  Considerations in question design include question type, question wording, and how to deal with non-response.

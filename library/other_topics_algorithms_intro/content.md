@@ -3,8 +3,8 @@ title: Intro
 author: Thinkful
 team: grading
 time: 5
+uuid: 51b55a8c-82af-4527-a123-906de1e38480
 ---
- 
 
 We're now going to spend some time explicitly talking about algorithms and data structures. We've already introduced these ideas throughout the course, with things such as the machine learning techniques we've used or the data structures we've put data into (like lists, dictionaries, arrays, data frames and so on), but now we're going to cover them in a more formal and rudimentary fashion.
 
