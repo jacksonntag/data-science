@@ -1,4 +1,4 @@
-name: "Other topics: Web scaping"
+name: 'Other topics: Web scaping'
 code: DSBC-WEB-SCRAPING
 version: 1
 checkpoints:
@@ -6,3 +6,4 @@ checkpoints:
   - other_topics_scrapy
   - other_topics_scraping_dont_break_it
   - other_topics_apis
+uuid: c576e610-9646-4504-9371-08cde903a746

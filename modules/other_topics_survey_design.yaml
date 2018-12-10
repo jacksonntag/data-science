@@ -1,4 +1,4 @@
-name: "Other topics: Survey design"
+name: 'Other topics: Survey design'
 code: DSBC-SURVEY-DESIGN
 version: 1
 checkpoints:
@@ -6,3 +6,4 @@ checkpoints:
   - other_topics_question_design
   - other_topics_who_and_how
   - other_topics_self_reports
+uuid: 6b4f51ea-7466-4191-adad-dea573d40498

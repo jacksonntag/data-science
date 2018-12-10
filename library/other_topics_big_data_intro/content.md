@@ -3,6 +3,7 @@ title: Intro
 author: Thinkful
 team: grading
 time: 5
+uuid: dc9fe856-32a2-41a9-95b1-c301b4624cc6
 ---
 
 Big Data. It’s undoubtedly something you’ve heard before, and depending on what stories you’ve been reading it’s either about dealing with the enormous growth in data recording and storage capabilities that has happened over the past several years or the answer to every problem ever.

@@ -1,4 +1,4 @@
-name: "Other topics: Advanced Experimentation"
+name: 'Other topics: Advanced Experimentation'
 code: DSBC-ALGORITHMS-DATA-STRUCTURES
 version: 1
 checkpoints:
@@ -7,3 +7,4 @@ checkpoints:
   - other_topics_normality_and_multiple_testing_correction
   - other_topics_distribution_non_parametric
   - other_topics_advanced_exp_challenge
+uuid: 46c053a1-7eaa-4c79-8ab2-624a03f88ce1

@@ -3,6 +3,7 @@ title: Self reporting
 author: Thinkful
 team: grading
 time: 60
+uuid: c570cd3b-d564-401e-a250-024b9d76d21d
 ---
 
 Self-report data is easy and cheap to acquire, but businesses prefer behavioral data.  This is because there are literally [thousands of research papers](http://web.psych.utoronto.ca/psy320/Required%20readings_files/4-1.pdf) showing that what people say, think, plan to, or believe they will do is often a very weak indicator of what they actually end up doing!  

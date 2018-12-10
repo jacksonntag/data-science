@@ -1,4 +1,4 @@
-name: "Other topics: big data"
+name: 'Other topics: big data'
 code: DSBC-BIG-DATA
 version: 1
 checkpoints:
@@ -6,3 +6,4 @@ checkpoints:
   - other_topics_big_data
   - other_topics_hadoop
   - other_topics_distributed_computing
+uuid: a82db90f-c5c7-4099-b093-3c013b0698b3

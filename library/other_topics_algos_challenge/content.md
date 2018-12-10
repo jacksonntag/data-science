@@ -1,8 +1,9 @@
 ---
-title: "Challenge: Project Euler"
+title: 'Challenge: Project Euler'
 author: Thinkful
 team: grading
 time: 120
+uuid: aeaac652-3d12-48b7-89c0-fbdb930435e6
 ---
 
 ## Project Euler

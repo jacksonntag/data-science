@@ -3,6 +3,7 @@ title: Who and how?
 author: Thinkful
 team: grading
 time: 45
+uuid: dd466780-ed7b-4a89-879b-d60e1099ed1a
 ---
 
 At the same time as you put together your questions, you need to consider *who* you want to learn about, and *how* you’ll administer the survey.

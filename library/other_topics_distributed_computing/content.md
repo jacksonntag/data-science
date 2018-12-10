@@ -3,6 +3,7 @@ title: Distributed Computing and Spark
 author: Thinkful
 team: grading
 time: 45
+uuid: e8b1ac5c-c7c0-4af0-8b27-b26440aadd12
 ---
 
 So we’ve covered the software for accessing data that is in a distributed form. Now you want to do something with it. What can you do about it? Chances are your analyses are probably going to be pretty slow if you try to do them all at once on a single machine as a single job.

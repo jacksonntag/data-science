@@ -1,8 +1,9 @@
 ---
-title: "What is scraping?"
+title: What is scraping?
 author: Thinkful
 team: grading
 time: 30
+uuid: 83d29f19-7499-4487-8fd9-a0e50ae51dc9
 ---
 
 Web scraping (or data scraping) is the process of programmatically extracting data from a website and saving it to a file or database. Writing a scraper, collecting some data, and then doing some basic analyses on the data is a popular way for a data scientist to build their online portfolio: you’re guaranteed a unique dataset and can achieve an impressive-looking presentation with a few plots and basic statistics.
