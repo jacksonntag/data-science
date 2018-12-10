@@ -1,10 +1,8 @@
-uuid: 0ca512a0-b4a2-4e0d-8372-d92c82f737e7
-name: "Other topics: Algorithms and data structures"
-code: DSBC-ALGORITHMS-DATA-STRUCTURES
+name: "Other topics: big data"
+code: DSBC-BIG-DATA
 version: 1
 checkpoints:
-  - other_topics_algorithms_intro
-  - other_topics_algorithms
-  - other_topics_sort
-  - other_topics_trees
-  - other_topics_algos_challenge
+  - other_topics_big_data_intro
+  - other_topics_big_data
+  - other_topics_hadoop
+  - other_topics_distributed_computing
