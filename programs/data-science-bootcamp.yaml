@@ -23,7 +23,11 @@ modules:
   - unsupervised_learning_clustering
   - unsupervised_learning_neural_networks
   - capstone_unsupervised_learning
-  - other_topics
+  - other_topics_algos
+  - other_topics_scraping
+  - other_topics_big_data
+  - other_topics_survey_design
+  - other_topics_advanced_experimentation
   - specializations_time_series_analysis
   - specializations_network_analysis
   - specializations_economics
