@@ -5,4 +5,4 @@ team: grading
 time: 45
 ---
 
-<jupyter notebook-name="5.5.1 Comparing Groups Parametrically" course-code="data-201" />
+<jupyter notebook-name="5.5.1 Comparing Groups Parametrically" course-code="DSBC" />

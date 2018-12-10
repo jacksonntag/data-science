@@ -5,4 +5,4 @@ team: grading
 time: 60
 ---
 
-<jupyter notebook-name="5.1.2 Sorting Algorithms" course-code="data-201" />
+<jupyter notebook-name="5.1.2 Sorting Algorithms" course-code="DSBC" />
