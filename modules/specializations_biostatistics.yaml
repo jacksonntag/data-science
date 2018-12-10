@@ -7,3 +7,4 @@ checkpoints:
   - what_is_a_biostat
   - meta_analysis
   - survival_analysis
+  - survival_analysis_guided_example

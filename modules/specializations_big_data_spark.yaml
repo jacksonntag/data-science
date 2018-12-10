@@ -4,6 +4,7 @@ code: DSBC-BIG-DATA-SPARK
 version: 1
 checkpoints:
   - big_data_spark_intro
+  - spark_for_big_data
   - up_and_running_with_docker
   - big_data_spark_example_rfc
   - challenge_sentiment_analysis_for_amazon_reviews
