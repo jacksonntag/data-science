@@ -3,4 +3,10 @@ name: 'Specialization: TensorFlow and keras'
 code: DSBC-TENSOR-FLOW
 version: 1
 checkpoints:
-  - tensor_flow_and_keras
+  - tensor_flow_and_keras_intro
+  - history_of_ann
+  - how_tensor_flow_thinks
+  - your_first_tensor_flow_model
+  - lets_talk_keras
+  - keras_guided_example
+  - tensorflow_keras_challenge
