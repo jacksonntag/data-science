@@ -6,7 +6,6 @@ time: 60
 uuid: 3773f455-f62e-4762-aa79-28178b874afe
 ---
 
-
 No matter how perfectly designed, one experiment alone is never 100% definitive.  There’s that pesky less than 5% chance of a false positive when using p < .05 as a threshold.  There’s the chance that, totally randomly, our sample is not representative of the group we want to study.  And then there’s all the uncontrollable, unmeasured (and possibly unmeasurable) factors (weather, a manufacturing error when producing an experimental medication, some participants take an unreasonable dislike to the experimenter, etc) that can throw off the results of a study.   For this reason, science emphasizes *replication*- running the same or very similar studies more than once, ideally in different laboratories, to see if they get the same finding.  The more times a study replicates, the more likely its findings are to be true.
 
 ## Two Truths and a Lie: Aggregating Study Results

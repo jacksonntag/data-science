@@ -3,6 +3,7 @@ title: Let's talk Keras
 author: Thinkful
 team: grading
 time: 45
+uuid: 49a71818-7745-4b37-ba14-8eb4d6a13de9
 ---
 
 So we said in the beginning that we'd use Keras to build Neural Networks, but so far we've been all about the TensorFlow. That changes now. But before we can start using Keras, we need to discuss how it's different from TensorFlow.
