@@ -53,7 +53,6 @@ We expect that the <strong style="color:#6AA84F">green bold text</strong> will r
 
 If the two groups appeared similar in age, gender, and anything else we measured, but click rates were higher for the <strong style="color:#6AA84F">green bold text</strong> version of the newsletter, we would conclude that changing the text to be green and bold caused more clickthroughs. As a result, we would advocate for including <strong style="color:#6AA84F">green bold text</strong> in all future newsletters.
 
-
 ## Assignments
 
 For each of the following questions, outline how you could use an A/B test to find an answer. Be sure to identify all five key components of an A/B test we outlined above.
