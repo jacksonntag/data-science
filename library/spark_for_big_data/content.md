@@ -3,6 +3,7 @@ title: Intro
 author: Thinkful
 team: grading
 time: 45
+uuid: f45217a8-bf79-497c-b633-299fb564476e
 ---
 
 Businesses rely on numbers to guide decision making and to exploit their competitive advantages whenever possible.

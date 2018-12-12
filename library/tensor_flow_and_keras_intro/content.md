@@ -3,6 +3,7 @@ title: Intro
 author: Thinkful
 team: grading
 time: 5
+uuid: 325a0756-fa58-475e-b86d-6868247a1c65
 ---
 
 So, you've chosen TensorFlow and Keras. Those previous neural network lessons just weren't enough for you, huh? Maybe they whetted your appetite for just a bit more? Maybe you came into this wanting to learn these tools? Maybe deep learning could be a deep-rooted interest?

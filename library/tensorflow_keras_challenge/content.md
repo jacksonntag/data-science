@@ -3,6 +3,7 @@ title: Challenge
 author: Thinkful
 team: grading
 time: 120
+uuid: cb37ffae-78a1-4c6f-92fc-cba917b770d9
 ---
 
 Now take your Keras skills and go build another neural network. Pick your data set, but it should be one of abstract types, possibly even nonnumeric, and use Keras to make five implementations of your network. Compare them both in computational complexity as well as in accuracy and given that tradeoff decide which one you like best.

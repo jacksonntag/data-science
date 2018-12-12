@@ -3,6 +3,7 @@ title: History of ANN
 author: Thinkful
 team: grading
 time: 45
+uuid: 669a0469-120f-4a66-8072-529d1c16b1ad
 ---
 
 A long long time ago, in a galaxy that was actually this same galaxy, people started building artificial neural networks. Artificial Neural Networks (ANN) were, somewhat unsurprisingly, born of a desire to simulate neural networks in the brain. This work really began in the 1950s, and while it is now considered a significant development in computer science, it wasn't really seen to be that at the time.
