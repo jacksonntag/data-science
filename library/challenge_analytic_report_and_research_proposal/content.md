@@ -1,8 +1,8 @@
 ---
-title: "Capstone 1: Analytic Report and Research Proposal"
+title: 'Capstone 1: Analytic Report and Research Proposal'
 author: Thinkful
-time: 720
 team: grading
+time: 720
 uuid: 156ea144-646b-41a8-9c4a-37ead59b70cf
 ---
 
