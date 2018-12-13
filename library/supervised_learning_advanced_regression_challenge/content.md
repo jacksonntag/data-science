@@ -3,6 +3,7 @@ title: Challenge
 author: Thinkful
 team: grading
 time: 90
+uuid: 699eb8e5-0ea9-424d-9a51-2697a00c06b9
 ---
 
 Now that you have two new regression methods at your fingertips, it's time to give them a spin.  In fact, for this challenge, let's put them together!  Pick a dataset of your choice with a binary outcome and the potential for at least 15 features.  If you're drawing a blank, the [crime rates in 2013](https://ucr.fbi.gov/crime-in-the-u.s/2013/crime-in-the-u.s.-2013/tables/table-8/table_8_offenses_known_to_law_enforcement_by_state_by_city_2013.xls/view) dataset has a lot of variables that could be made into a modelable binary outcome.  
