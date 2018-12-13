@@ -11,5 +11,6 @@ Ready to double the size of your model toolset? In this section we  introduce li
 * What can be learned from a linear regression model
 * Designing and fitting a linear regression model in SciKit Learn and Statsmodels
 * The assumptions behind a linear regression model
+* Evaluating linear regression models
 
 Let's get started.

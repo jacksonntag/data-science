@@ -12,5 +12,6 @@ You're ready to build your first model. In this module, you'll build your first 
 * What is a Naive Bayes classifier?
 * Choosing between types of Naive Bayes models
 * A guided example of how to build this type of model using SciKit Learn.
+* How to evaluate the performance of classifiers
 
 Let's get started.
