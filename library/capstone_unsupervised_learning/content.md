@@ -1,5 +1,5 @@
 ---
-title: coming soon
+title: Unsupervised learning capstone
 author: Thinkful
 team: grading
 time: 960
