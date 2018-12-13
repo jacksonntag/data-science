@@ -1,5 +1,5 @@
 ---
-title: Trrees
+title: Trees
 author: Thinkful
 team: grading
 time: 60
