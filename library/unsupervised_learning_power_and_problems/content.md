@@ -3,6 +3,7 @@ title: Power and problems
 author: Thinkful
 team: grading
 time: 10
+uuid: b3fae65f-0223-4ec4-84ff-0d9dbf983567
 ---
 
 As we already mentioned, unsupervised learning can work in a myriad of contexts some of which operate on their own and others which are great for working in concert with other approaches (like how PCA is a great first step to building a supervised model).
