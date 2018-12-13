@@ -7,3 +7,4 @@ checkpoints:
   - logistic_regression
   - ridge_regression
   - lasso_regression
+  - supervised_learning_advanced_regression_challenge
