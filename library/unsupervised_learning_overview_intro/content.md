@@ -3,6 +3,7 @@ title: Why do we do this?
 author: Thinkful
 team: grading
 time: 30
+uuid: 62d7d1a4-e10f-4617-9132-a4d7656341a5
 ---
 
 In the beginning of this program, we divided machine learning into two overarching types. We've now thoroughly covered the first class, supervised learning, and so we are ready to move on to the second: unsupervised learning. 

@@ -3,6 +3,7 @@ title: Unsupervised or supervised?
 author: Thinkful
 team: grading
 time: 20
+uuid: affab0c9-a652-4627-86ec-b4bc85323260
 ---
 
 _For each of these scenarios decide if you could use supervised or unsupervised techniques, or both!_
