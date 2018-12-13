@@ -1,0 +1,7 @@
+name: 'Unsupervised learning: an overview'
+code: DSBC-UNSUPERVISED-NLP
+version: 1
+checkpoints:
+  - unsupervised_learning_overview_intro
+  - unsupervised_learning_power_and_problems
+  - unsupervised_learning_overview_challenge
