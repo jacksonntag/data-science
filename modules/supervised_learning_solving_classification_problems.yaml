@@ -7,7 +7,6 @@ checkpoints:
   - regression_vs_classification
   - algorithm_basics
   - naive_bayes
-  - feature_engineering
   - guided_example_spam_classification_with_naive_bayes
   - challenge_sentiment_analysis_with_naive_bayes
   - accuracy_and_error_types
