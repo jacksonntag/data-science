@@ -1,14 +1,12 @@
-uuid: 68525ff5-a193-42d0-abc6-ab7fa42624ba
 name: 'Supervised learning: solving regression problems'
 code: DSBC-REGRESSION-PROBLEMS
 version: 1
 checkpoints:
-  - supervised_learning_regression_problems_intro
-  - simple_linear_regression
-  - multivariable_regression
-  - assumptions_of_linear_regression
-  - challenge_make_your_own_linear_regression_model
-  - testing_linear_regression_models
-  - challenge_validate_your_linear_regression_model
-  - dimensionality_reduction_in_linear_regression
-  - the_gradient_descent_algorithm
+  - regression_what_is_regression
+  - regression_simple_linear_regression_models
+  - regression_assumptions_of_linear_regression
+  - regression_understanding_the_relationship
+  - regression_evaluating_performance
+  - regression_making_predictions
+  - regression_overfitting_and_regularization
+  - regression_challenge
