@@ -22,7 +22,7 @@ MapReduce, our final component which is actually the basis of the Hadoop project
 
 Though it is important to understand a bit of that aforementioned Hadoop architecture, most of the time a data scientist won’t actually be working with those tools (with the possible exception of Pig, which executes jobs in a language called Pig Latin, no joke). That’s because most of the time the data will be set up with a querying layer. In the case of Hadoop, that is typically Hive (though it could also be something like Presto, and you could accomplish a lot of the same goals with a PIG script).
 
-Querying is a nice, easy way to access huge amounts of data and get only what you want which is then brought to your local machine or kept on a separate server. We covered queries in SQLite as part of the first unit of this course. Hive allows you to use those same tools and structures for large datasets in HDFS. It even has its own SQL-like querying language, called HiveQL.
+Querying is a nice, easy way to access huge amounts of data and get only what you want which is then brought to your local machine or kept on a separate server. We covered queries in SQLite as part of the first unit of this course. Hive allows you to use those same tools and structures for large datasets in HDFS. It even has its own SQL-like querying language called HiveQL.
 
 So what are the differences between HiveQL and SQLite?
 
