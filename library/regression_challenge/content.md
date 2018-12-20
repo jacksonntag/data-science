@@ -3,6 +3,7 @@ title: Challenge
 author: Thinkful
 team: grading
 time: 480
+uuid: cbe8a40f-f262-45d9-a81d-4a242023a7d6
 ---
 
 In this module, we learned how to approach and solve regression problems using linear regression models. Throughout the module, you worked on a house price dataset from Kaggle. In this challenge, you will keep working on this dataset.
