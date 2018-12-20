@@ -15,7 +15,6 @@ modules:
   - supervised_learning_solving_regression_problems
   - supervised_learning_similarity_models
   - supervised_learning_random_forest_models
-  - supervised_learning_advanced_regression
   - supervised_learning_support_vector_machines
   - supervised_learning_boosting_models
   - capstone_supervised_learning
