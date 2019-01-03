@@ -4,6 +4,7 @@ code: DSBC-STATS-1
 checkpoints:
   - dsbc_stats_intro
   - pandas_basics
+  - working_with_files
   - plotting_basics
   - descriptive_statistics
   - basics_of_probability
