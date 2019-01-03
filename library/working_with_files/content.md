@@ -3,6 +3,7 @@ title: Working with files
 author: Thinkful
 team: grading
 time: 90
+uuid: ca522d53-64d5-4b55-8d97-1f2d21791324
 ---
 
 In the examples so far, we built Pandas data frames by manually typing or pasting in text. Doing that with actual data sets would be tedious or impossible, so you'll almost always be loading your data into Pandas from files (like CSV files), from the web using APIs, or from databases and other large data stores.
