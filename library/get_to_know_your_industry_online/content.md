@@ -1,7 +1,7 @@
 ---
 title: Get to know your industry
 author: Thinkful
-team: grading
+team: careers
 time: 180
 uuid: 6063b2e6-53fa-4593-985c-e13a2e4838f1
 ---
