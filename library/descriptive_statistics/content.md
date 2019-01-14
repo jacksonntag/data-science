@@ -2,7 +2,7 @@
 title: Summary statistics
 author: Thinkful
 team: grading
-time: 5
+time: 440
 uuid: 53f88fcd-7361-477f-b21f-b23cd186e251
 ---
 
