@@ -1,7 +1,9 @@
-uuid: 8c53c9f1-f897-41cc-90bd-3ddcaec95dc4
 name: 'Careers: networking'
 code: DSBC-NETWORKING
 version: 1
 checkpoints:
-  - intro_to_career_services
-  - get_to_know_your_industry_online
+  - careers_networking_getting_started
+  - careers_networking_crafting_narrative
+  - careers_networking_meetup
+  - careers_networking_cold_outreach
+  - careers_networking_informational_interview

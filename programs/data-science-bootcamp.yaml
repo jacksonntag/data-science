@@ -3,9 +3,10 @@ name: Data Science (Next)
 slug: DATA-201-NEXT
 modules:
   - orientation
-  - careers_networking
+  - careers_job_landscape
   - programming_fundamentals_in_python
   - basic_stats_and_probability_with_python
+  - careers_networking
   - sql_for_data_scientists
   - data_visualization_and_exploration
   - experimental_design_and_a_b_testing
