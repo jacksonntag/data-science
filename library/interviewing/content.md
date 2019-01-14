@@ -1,8 +1,8 @@
 ---
 title: Interviewing Overview
 author: Stephanie Bermudez
-team: grading
-time: null
+team: careers
+time: 120
 uuid: 16995344-955c-4ca4-83f5-959f3b8c3a80
 ---
 
