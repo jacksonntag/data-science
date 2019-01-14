@@ -3,8 +3,8 @@ title: Getting started
 author: Thinkful
 team: careers
 time: 120
+uuid: 049d13db-1d20-467e-b208-c758ede222ee
 ---
-
 
 ## Overview and Purpose
 

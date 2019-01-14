@@ -3,6 +3,7 @@ title: Conducting cold outreach online
 author: Thinkful
 team: careers
 time: 240
+uuid: 4c286d12-ac9c-4df0-867e-e08d828199ae
 ---
 
 ## Overview and Purpose
