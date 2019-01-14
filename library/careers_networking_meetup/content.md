@@ -3,6 +3,7 @@ title: Attending meetups
 author: Thinkful
 team: careers
 time: 180
+uuid: 83c870d9-9089-4c9a-8f8c-245d5586003f
 ---
 
 ## Overview

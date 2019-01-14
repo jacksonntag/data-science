@@ -3,6 +3,7 @@ title: Crafting your narrative
 author: Thinkful
 team: careers
 time: 60
+uuid: 88319f93-23b6-4e27-99b0-0116e8d7064c
 ---
 
 ## Overview

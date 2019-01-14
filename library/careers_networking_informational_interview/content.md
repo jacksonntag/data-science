@@ -3,8 +3,8 @@ title: Conducting an informational interview
 author: Thinkful
 team: careers
 time: 120
+uuid: d8637897-7410-455c-9caf-b16ac9330e22
 ---
-
 
 ## Overview and Purpose
 
