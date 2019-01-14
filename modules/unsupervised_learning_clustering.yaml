@@ -3,7 +3,6 @@ name: 'Unsupervised learning: clustering'
 code: DSBC-CLUSTERING
 version: 1
 checkpoints:
-  - unsupervised_learning_clustering_intro
   - clustering_and_k_means
   - other_approaches_to_clustering
   - clustering_evaluation
