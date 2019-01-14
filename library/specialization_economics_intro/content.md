@@ -6,7 +6,7 @@ time: 90
 uuid: da5b8701-bc15-444a-9c7b-c7091194b8db
 ---
 
-For a large portion of this course, we’ve focused on robust machine learning algorithms that do a fantastic job predicting or modeling outcomes with high degrees of accuracy for wide variety of problems. Our goal is usually to craft the system that produces the most accurate results, typically based around some single or set of metrics.
+For a large portion of this course, we’ve focused on robust machine learning algorithms that do a fantastic job predicting or modeling outcomes with high degrees of accuracy for a wide variety of problems. Our goal is usually to craft the system that produces the most accurate results, typically based around some single or set of metrics.
 
 However, not all fields have approached data with those same priorities. Specifically, Economics (as well as other social sciences) have developed their own approach to data, combining some classic techniques with contemporary scale. This specialization handles those topics.
 
