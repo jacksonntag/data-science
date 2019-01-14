@@ -2,7 +2,7 @@
 title: Sampling and the central limit theorem
 author: Thinkful
 team: grading
-time: 5
+time: 90
 uuid: 7172f9fa-da08-4d8c-807b-cb928fd72b09
 ---
 
