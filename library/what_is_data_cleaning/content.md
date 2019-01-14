@@ -51,6 +51,7 @@ If data is dirty, then it must be cleaned before analysis.  Cleaning involves re
  * Two data sources are combined and include some overlap.
 
 ### Other:
+
 Some forms of data cleaning require _major_ judgment calls because the "dirty" pattern is widespread and/or systematic.  Missing data, for example, can make a dataset dirty if you suspect that there is a data-related reason why those particular values are missing.  For example, low-income survey respondents may systematically skip the "income" question, while higher-income respondents are less likely to skip it.  Without some kind of cleaning or correction, this will cause the average income of the sample to appear higher than it truly is.  Missing data correction is sufficiently complex to be covered in its own assignment within this lesson.
 
 
