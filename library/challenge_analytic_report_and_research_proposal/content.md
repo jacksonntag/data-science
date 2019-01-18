@@ -32,7 +32,7 @@ Keep these guidelines in mind as you draft your _Report_:
 
 Your first step is choosing an interesting dataset to work with. You're welcome to use any dataset you like. If you aren't sure which one to use or are looking for inspiration, check out this [collection of open data sources](https://github.com/Thinkful-Ed/data-201-resources/blob/master/data-sources.md). Before deciding on a particular dataset think about the kinds of questions you might be able to answer. Consider the format of the data. Do you know how to (or will you quickly be able to learn to) access and load it? Once you've chosen a dataset, write out some of those preliminary questions. Having them early will help guide your initial data exploration.
 
-In order to conduct summary statistics and prepare visualizations you'll need to collect the data and load it into Python / pandas. Some of the data in the sources above will be in a format we didn't teach you to load in this fundamentals course. If necessary, refer back to the lesson on [working with files](https://courses.thinkful.com/data-201-prepv1/assignment/2.1.4) or the [pandas I/O documentation](http://pandas.pydata.org/pandas-docs/stable/io.html).
+In order to conduct summary statistics and prepare visualizations you'll need to collect the data and load it into Python / pandas. Some of the data in the sources above will be in a format we didn't teach you to load in this fundamentals course. If necessary, refer to the [pandas I/O documentation](http://pandas.pydata.org/pandas-docs/stable/io.html).
 
 Once you've loaded your data, dig around with pandas and matplotlib to explore it. What variables does your data contain and what distributions do you think they have? Does the data bear on the preliminary questions you wrote down? What new questions might you answer? How does the data look when you plot it out?
 
@@ -42,12 +42,9 @@ At this point you should be ready to start writing your _Report_. Decide what fo
 
 You are encouraged to make use of every resource at your disposal in putting together your _Report_. This extends to getting preliminary feedback on your work from your mentor or from other friends and family. However, you should be ready to explain every decision, conclusion, and visualization you make and all of the code you write.
 
-When you're ready, you can submit your final _Report_ at the bottom of this page. Once submitted, be sure to [schedule a time to meet with someone](https://dashboard.thinkful.com) for a capstone review. A few importants notes if you don't see a calendly to schedule your capstone review:
-* Your mentor must approve your goals for units 1, 2, and 3 and your careers goal.
-* Your tech evaluation goal must be approved by your program manager once you've passed it.
-* You must meet with one of the capstone review mentors that is not your own mentor.  You can use the "see someone elses schedule" link to look at another mentors availability for the capstone review.
+When you're ready, you can submit your final _Report_ at the bottom of this page. Once submitted, be sure to [schedule a time to meet with someone](https://dashboard.thinkful.com) for a capstone review.
 
-Also make sure that you've already [submitted your career story assignment](https://courses.thinkful.com/data-201-prepv1/project/4.1.4) and [scheduled a time to review the assignment in a group Careers - Ask Me Anything session hosted by Jenn Best](https://www.thinkful.com/open-sessions/qa-sessions/data%20science/). To help you prepare for your capstone review, here are a few examples of the types of questions you'll be asked:
+To help you prepare for your capstone review, here are a few examples of the types of questions you'll be asked:
 
 * Did you have any challenges with this data?
 * Why did you choose this dataset?
@@ -61,17 +58,10 @@ You should also take some time to review [the rubric that you'll be scored on](h
 Here's a few last pieces of advice:
 
 * Grammar matters. A lot. This should be a professional and easy to read document.
-
 * State the questions you aim to answer clearly and answer them specifically.  Make sure to use markdown to properly format your questions.
-
 * __Including your code is required__ but we should also be able to read your report and understand your visualizations without having to look at that code. Whether you include your code in the report with an iPython notebook or in a separate file is up to you.
-
 * Your goal should be to give us an understanding of your dataset and the behaviors present in it. As such use analytics and statistics to tell a story about the data, don't just give us statistics without context.
-
 * Try to translate real questions into statistical questions rather than simply ask statistical questions.
-
-* Use at least 2-3 different types of charts from the fundamentals course to display the data.
-
+* Use at least 2-3 different types of charts to display the data.
 * Be clear about any assumptions you make about the data and validate those assumptions if possible.
-
 * Ensure that your dataset actually has the information to answer the questions you're asking. Does the dataset have a bias? Is it incomplete? Problems with your dataset can easily lead to problems in your analysis if you don't address them.
