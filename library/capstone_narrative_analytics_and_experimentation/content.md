@@ -1,5 +1,5 @@
 ---
-title: 'Capstone: narrative analytics and experimentation'
+title: 'Capstone 2: narrative analytics and experimentation'
 author: Thinkful
 team: grading
 time: 420
@@ -21,6 +21,8 @@ The main component of this capstone is a research proposal. Using the data set y
 Your experiment should be as real as possible. Though you obviously will not have access to the full production environment to deploy your experiment, it should be feasible and of interest to the parties involved with your actual data source.
 
 The target size of your research proposal should be 3-5 pages.
+
+When you're done with this project, submit a link to your work below. Your mentor will review your work. If they require any changes, they'll let you know, and you'll have a chance to revise. When they're satisfied with your project, they'll approve the next goal in your dashboard (which is to get mentor approval for your second caspstone). Don't forget to have your mentor mark the goal as complete!
 
 Good Luck!
 
