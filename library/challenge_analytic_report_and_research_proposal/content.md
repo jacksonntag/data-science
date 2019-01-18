@@ -8,6 +8,12 @@ uuid: 156ea144-646b-41a8-9c4a-37ead59b70cf
 
 To consolidate all the skills you've learned so far, you'll now embark on completing your first capstone project: an _Analytic Report and Research Proposal_ on a dataset of your choosing.
 
+In this checkpoint, we'll go over the requirements for the capstone deliverable as well as prepare you for the presentation you'll do after you submit your capstone materials.
+
+At the end of this checkpoint, we'll ask you to submit your final materials for your capstone project so you and your mentor can discuss in the leadup to your presentation.
+
+
+## Requirements
 
 Your _Report_ should accomplish these three goals:
 
@@ -38,11 +44,15 @@ Once you've loaded your data, dig around with pandas and matplotlib to explore i
 
 At this point you should be ready to start writing your _Report_. Decide what format to use, which three analytic questions you'll ask and answer, which research questions you'd like to ask and which data science techniques might be appropriate to answering them. If necessary, do independent research now about the field of data science, or discuss the topic with your mentor, to decide which potential techniques you could use.
 
-## Evaluation
-
 You are encouraged to make use of every resource at your disposal in putting together your _Report_. This extends to getting preliminary feedback on your work from your mentor or from other friends and family. However, you should be ready to explain every decision, conclusion, and visualization you make and all of the code you write.
 
-When you're ready, you can submit your final _Report_ at the bottom of this page. Once submitted, be sure to [schedule a time to meet with someone](https://dashboard.thinkful.com) for a capstone review.
+
+## Presenting your first capstone and evaluation
+
+Once you've completed your capstone materials, you'll need to schedule a time to present it to a Thinkful educator. This will be a one-on-one presentation with an educator who is not your mentor, who will listen to your presentation and then ask follow up questions. Ultimately, they'll provide you with written feedback on your capstone.
+
+Once you've completed this module, the following goal in your dashboard will prompt you to [schedule a time to meet with someone](https://dashboard.thinkful.com) for this presentation.
+
 
 To help you prepare for your capstone review, here are a few examples of the types of questions you'll be asked:
 
@@ -65,3 +75,7 @@ Here's a few last pieces of advice:
 * Use at least 2-3 different types of charts to display the data.
 * Be clear about any assumptions you make about the data and validate those assumptions if possible.
 * Ensure that your dataset actually has the information to answer the questions you're asking. Does the dataset have a bias? Is it incomplete? Problems with your dataset can easily lead to problems in your analysis if you don't address them.
+
+## Assignment
+
+When you're ready, submit your final _Report_ at the bottom of this page. Try to have a final discussion with your mentor about your work before you present your capstone.
