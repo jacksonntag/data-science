@@ -1,0 +1,6 @@
+name: Trial Orientation
+code: DSBC-TRIAL-ORIENTATION
+checkpoints:
+  - trial_orientation_support_network
+  - trial_orientation_program_overview
+  - orientation_learning_at_thinkful

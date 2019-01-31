@@ -1,0 +1,8 @@
+name: Data Science Trial (Next)
+slug: DATA-201-NEXT-TRIAL
+modules:
+  - trial_orientation
+  - careers_job_landscape
+  - programming_fundamentals_in_python
+  - basic_stats_and_probability_with_python
+  
