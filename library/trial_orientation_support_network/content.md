@@ -3,6 +3,7 @@ title: Your support network
 author: Thinkful
 team: grading
 time: 10
+uuid: 4422ab8b-2e63-4538-a517-279cd30e3f25
 ---
 
 As a trial student, you are part of the Thinkful community, and you’ve got a team of people at Thinkful here to support your progress and success. The goal of each team is to give you the tools and support to get you part of the way, but note that only _you_ can get yourself across the finish line. 

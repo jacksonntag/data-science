@@ -3,6 +3,7 @@ title: Program overview
 author: Thinkful
 team: grading
 time: 30
+uuid: 0cda16ff-a955-4a85-b182-867fee5efa93
 ---
 
 Hiring managers have a high bar for professional work, so we set our standards accordingly. We review each stage of your work with rigor, providing critical feedback along the way. As a result, Thinkful graduates land the jobs they want and can perform on day 1.

@@ -3,6 +3,7 @@ title: Learning at Thinkful
 author: Thinkful
 team: grading
 time: 10
+uuid: e1969b36-4cc9-45a5-8e1d-4847718cbc9d
 ---
 
 Learning does not have one right approach. The strategies you used in high school or college may not be successful in a remote environment. We’ll provide you with some suggested strategies, but it’s up to you to consider how you learn best and adjust your behavior based on what’s working and what’s not.
