@@ -2,7 +2,7 @@ uuid: 2bca8eac-23cb-43a5-b682-6d40744fd768
 name: Orientation
 code: DSBC-ORIENTATION
 checkpoints:
-  - orientation_intro
+  - orientation_get_started
   - what_to_expect
   - getting_help_between_sessions
   - weekly_reflections
