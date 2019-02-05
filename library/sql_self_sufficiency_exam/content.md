@@ -3,6 +3,7 @@ title: SQL self-sufficiency exam
 author: Thinkful
 team: grading
 time: 60
+uuid: 8db7ccf0-f049-47c4-bc7c-d0a13aa7097b
 ---
 
 In this checkpoint, you'll complete the SQL self-sufficiency exam. The point of this exam is to demonstrate your mastery of basic SQL skills. The exam is designed to have you generate some realistic SQL queries you might need to do in your everyday life as a data scientist.
