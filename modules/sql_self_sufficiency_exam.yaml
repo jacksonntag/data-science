@@ -1,0 +1,5 @@
+name: SQL self-sufficiency exam
+code: DSBC-SQL-EXAM
+version: 1
+checkpoints:
+  - sql_self_sufficiency_exam
