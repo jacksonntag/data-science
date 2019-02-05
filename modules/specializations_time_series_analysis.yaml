@@ -1,6 +1,6 @@
 uuid: bc51219f-ce82-449d-a4cf-e2a504cea073
 name: 'Specialization: time series analysis'
-code: DSBC-NETWORK-ANALYSIS
+code: DSBC-TIME-SERIES
 version: 1
 checkpoints:
   - specialization_time_series_analysis_intro
