@@ -21,20 +21,27 @@ As such this final model has to work, and work well. Spend time tuning it and op
 Before you get started, however, here are a few deliverables, requirements, and guidelines:
 
 Deliverables:
+
 * A one page proposal to be approved by the data science team here, before you begin
-* A 20 Minute Presentation on your product that argues not only for its relevance, but why this implementation is best, and the technical tools you will use to get there. This presentation should include a demo!
 * A jupyter notebook that builds the model and shows your machine learning tuning process
-* Defend your model in a 60 minute mock interview (the interviewer will attend your presentation and read through your notebook beforehand)
-* A final 60 minute mock interview on data science generally
+* A 20 Minute Presentation on your product that argues not only for its relevance, but why this implementation is best, and the technical tools you will use to get there. This presentation should include a demo!
+
+After you create those deliverables and complete this module, you'll also:
+
+* Have A final 60-minute mock interview in which you'll defend your final capstone project
+* Present your capstone (using the presentation deliverable) to fellow data science students and mentors and take questions from the audience
+
 
 Data Science Requirements:
+
 * Utilize at least one specialization in your pipeline
 * Include supervised _and_ unsupervised techniques
 
 Guidelines:
+
 * Your data set will be hugely important here. Though we've relied on preaggregated data before, for this assignment gathering your own data through scraping or other techniques may allow you to make a more impactful or novel product. It will likely need to see a continuous flow of data in order to be relevant as a data solution.
 * Emphasize why your implementation is the _best_ implementation, not just _an_ implementation
 * Remember, a good product is more than just metrics. It solves a problem.
 * You do not have to make a front end or a user interface for this product
 
-Each of the deliverables have a separate assignment below to submit or schedule, as well as an expansion of the instructions.
+Each of the deliverables have a separate assignment below to submit, as well as an expansion of the instructions.
