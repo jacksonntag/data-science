@@ -54,7 +54,8 @@ Here are some ways to plan and set your networking goals:
 - **Do Research on the Event Topic**: As an attendee at an event you don’t want to seem like networking is your only agenda. How are you going to let folks know that you are genuinely interested in the topic of the event? 
 - **Plan to Collect Contact Information:** What’s the minimum number of new connections on LinkedIn or email address exchanges that you want to take away from the event? 
 - **Set the Tone for Follow-Up:** How many new contacts do you want to engage for a follow-up coffee chat/phone meeting after you meet at the event? How are you going to plant the seed for this kind of follow-up meeting? 
-## **Step 3: Connecting at the Event**
+
+## Step 3: Connecting at the Event
 
 Fast forward and you’re about to arrive at the event. It’s natural to feel a bit nervous about striking a conversation with strangers - but here’s the good news: after introducing yourself, you can navigate solid conversations by **asking good questions**. New contacts like to know that you are genuinely interested in getting to know them, so here are some good questions to keep in mind: 
 
