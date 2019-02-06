@@ -62,9 +62,7 @@ At its core, grouping is as simple as that. Note that when using aggregate funct
 
 <div class="think-like-a-data-scientist">
     <p>As we go further into SQL let's take a moment to talk about its role in data science. Beyond basic data selection, you <em>could</em> use Python to accomplish everything we're learning to do in SQL, just using SQL to create CSVs that you consume with Python. So why would we want to process data with SQL, and how do we choose when to use each tool?</p>
-
     <p>There are many things to consider. The primary concern is the size of the data. SQL is much better suited to processing large data and the production database server is probably much beefier than your laptop running Python (there are some exceptions to this like using a distributed Python framework like Spark). As such SQL also tends to be much faster when working with large amounts of data than a local Python instance would be. SQL queries are also much lower weight to transfer across a network than a Python script plus a CSV or JSON dataset. Since SQL queries directly access the database they are also always accessing current data. SQL output is also easy to pipe into a Python environment or any <em>other</em> language, so if the output data might need to work with multiple languages, SQL is more robust than using Python.</p>
-
     <p>To some extent, how much to use SQL versus Python will remain a personal choice, and there are many scenarios where each is just as good as the other. Ultimately it will depend on the resources available and the complexity of your project.</p>
 </div>
 
