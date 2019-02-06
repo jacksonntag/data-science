@@ -8,7 +8,7 @@ uuid: 6063b2e6-53fa-4593-985c-e13a2e4838f1
 
 ## Overview and Purpose
 
-We know how excited you are to begin moving toward your new career! In this checkpoint, we’ll explore the broad scope of the tech community, introduce you to tech-specific websites and resources, highlight the types of roles that exist in Data Science, touch on the job market, and pinpoint some of the best ways to proactively engage with the technical landscape. 
+We know how excited you are to begin moving toward your new career! In this checkpoint, we’ll explore the broad scope of the tech community, introduce you to tech-specific websites and resources, highlight the types of roles that exist in data science, touch on the job market, and pinpoint some of the best ways to proactively engage with the technical landscape. 
 
 ## Objectives
 
@@ -39,13 +39,13 @@ You can gain more insight on the specific salary for your desired job title and 
 
 **What jobs can you expect after completing our program?** 
 
-While there are numerous job titles, here’s what our Web Development grads are now proudly called:
+While there are numerous job titles, here’s what our data science grads are now proudly called:
 
+- Data Scientist
 - Data Analyst
 - Data Engineer
 - Machine Learning Engineer
 - Python Engineer
-- Data Scientist
 - Data Architect
 - Business Analyst
 
