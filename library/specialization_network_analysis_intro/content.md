@@ -49,7 +49,7 @@ Graphs are valuable because they reduce a complex set of network interrelationsh
 
 Let’s abstract the communications network described in our Aunt Alice situation into a graph, and see what we can learn.
 
-![undirected network](../notebooks/assets/undirected_network_example.png)
+![undirected network](undirected_network_example.png)
 
 In the world of graphs, the circles represent *nodes*, also called *vertices*.  The connections between nodes are called *links*, or *edges.*  The relationships between nodes and links can be expressed as an adjacency matrix *A, an *n* by *n* matrix with a row and column for each node.  If node *k* is linked to node *j*, then A{j,k}=1.
 
@@ -165,7 +165,7 @@ As you’ve probably noticed, we use ‘node’ and ‘link’ throughout.  When
 
 Take the current undirected graph describing the Aunt Alice scenario and update it to reflect the following events:
 
-As a result of Aunt Alice’s temper tantrum, she and your mother are no longer speaking to each other.  Aunt Alice, still angry, called your fiancee to complain-- shockingly, this has ended in the fiancee becoming good friends with Aunt Alice due to their shared love of cute cat photos.  Meanwhile, you’ve met two of your fiancee’s best friends, Dave and Brian, who are themselves good friends of long standing.
+As a result of Aunt Alice’s temper tantrum, she and your mother are no longer speaking to each other. Aunt Alice, still angry, called your fiancee to complain-- shockingly, this has ended in the fiancee becoming good friends with Aunt Alice due to their shared love of cute cat photos.  Meanwhile, you’ve met two of your fiancee’s best friends, Dave and Brian, who are themselves good friends of long standing.
 
 Calculate the degree of each node
 Mom: 1
