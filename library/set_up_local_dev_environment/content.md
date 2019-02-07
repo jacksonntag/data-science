@@ -170,4 +170,4 @@ To use Jupyter notebooks, run `$ jupyter notebook` from your command line. This 
 Congratulations on getting this all set up. Time to start using this stuff!
 
 
-<jupyter height="1000" notebook-name="1.7.3_jupyter_notebooks" course-code="DATA-201-PREP" />
+<jupyter height="1000" notebook-name="1.7.3_jupyter_notebooks" course-code="DSBC" />
