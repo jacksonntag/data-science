@@ -72,7 +72,7 @@ A graph with directed links is called a *digraph* (a graph without directed link
 
 Visually, a digraph of that scenario looks like this:
 
-[insert ‘directed_network_example.png’ from assets folder]
+![](directed_network_example.png)
 
 The Adjacency Matrix looks like this:
 
