@@ -1,5 +1,5 @@
 ---
-title: Intro
+title: Big data and spark
 author: Thinkful
 team: grading
 time: 45
