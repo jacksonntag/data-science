@@ -13,4 +13,5 @@ checkpoints:
   - text_summarization
   - text_summarization_example
   - advanced_text_extraction
+  - advanced_text_extraction_example
   - advanced_text_extraction_challenge
