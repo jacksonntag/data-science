@@ -3,11 +3,12 @@ name: 'Supervised learning: model preparation'
 code: DSBC-MODEL-PREP
 version: 1
 checkpoints:
-  - supervised_learning_model_prep_intro
-  - what_is_a_model
-  - formulating_a_research_question
-  - exploring_data
-  - feature_engineering
-  - principal_component_analysis
-  - feature_selection
-  - challenge_prepare_a_data_set_for_modeling
+  - modeling_exploratory_data_analysis
+  - modeling_data_cleaning_variable_types
+  - modeling_data_cleaning_missing_values
+  - modeling_data_cleaning_outliers
+  - modeling_data_exploration_part_1
+  - modeling_data_exploration_part_2
+  - modeling_feature_engineering_part_1
+  - modeling_feature_engineering_part_2_pca
+  - modeling_modeling_processes
