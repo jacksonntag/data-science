@@ -2,7 +2,7 @@
 title: Working with files
 author: Thinkful
 team: grading
-time: 90
+time: 60
 uuid: ca522d53-64d5-4b55-8d97-1f2d21791324
 ---
 

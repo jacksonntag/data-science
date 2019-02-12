@@ -2,7 +2,7 @@
 title: Basics of probability
 author: Thinkful
 team: grading
-time: 240
+time: 180
 uuid: 78ce2724-6c33-4161-b028-aec860d09cb0
 ---
 

@@ -2,7 +2,7 @@
 title: Numpy and Pandas basics
 author: Thinkful
 team: grading
-time: 180
+time: 90
 uuid: cb56243f-8d3d-4c90-baac-cbb9d5dea251
 ---
 
