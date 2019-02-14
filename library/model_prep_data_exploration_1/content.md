@@ -1,5 +1,5 @@
 ---
-title: 'Data exporation 1: '
+title: "Data exporation 1"
 author: Thinkful
 team: grading
 time: 120

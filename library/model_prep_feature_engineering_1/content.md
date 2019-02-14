@@ -1,5 +1,5 @@
 ---
-title: Feature engineering 1
+title: "Feature engineering 1: From variables to features"
 author: Thinkful
 team: grading
 time: 120
