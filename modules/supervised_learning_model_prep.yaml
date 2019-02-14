@@ -1,13 +1,15 @@
 uuid: 5453fa07-cc5c-49b9-92b2-dfbe7b605ffb
-name: 'Supervised learning: model preparation'
+name: 'Model preparation'
 code: DSBC-MODEL-PREP
 version: 1
 checkpoints:
-  - supervised_learning_model_prep_intro
-  - what_is_a_model
-  - formulating_a_research_question
-  - exploring_data
-  - feature_engineering
-  - principal_component_analysis
-  - feature_selection
-  - challenge_prepare_a_data_set_for_modeling
+  - model_prep_exploratory_data_analysis
+  - model_prep_data_cleaning_variable_types
+  - model_prep_data_cleaning_missing_values
+  - model_prep_data_cleaning_outliers
+  - model_prep_data_exploration_1
+  - model_prep_data_exploration_2
+  - model_prep_feature_engineering_1
+  - model_prep_feature_engineering_2
+  - model_prep_models_in_data_science
+  - model_prep_challenge
