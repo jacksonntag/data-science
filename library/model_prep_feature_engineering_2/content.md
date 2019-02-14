@@ -1,5 +1,5 @@
 ---
-title: "Feature engineering 2: the curse of dimensionality"
+title: "Feature engineering 2: dimensionality and PCA"
 author: Thinkful
 team: grading
 time: 120
